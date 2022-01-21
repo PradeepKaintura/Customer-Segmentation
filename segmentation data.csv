@@ -1,0 +1,2001 @@
+ID,Gender,Marital_Status,Age,Education,Income,Occupation,Settlement_Size
+100000001,Male,Single,67,Graduate,124670,Skilled,Big City
+100000002,Female,Not-Single,22,High School,150773,Skilled,Big City
+100000003,Male,Single,49,High School,89210,unemployed/unskilled,Small City
+100000004,Male,Single,45,High School,171565,Skilled,mid-Sized City
+100000005,Male,Single,53,High School,149031,Skilled,mid-Sized City
+100000006,Male,Single,35,High School,144848,unemployed/unskilled,Small City
+100000007,Male,Single,53,High School,156495,Skilled,mid-Sized City
+100000008,Male,Single,35,High School,193621,Management/officer/self-employed,mid-Sized City
+100000009,Male,Not-Single,61,Graduate,151591,unemployed/unskilled,Small City
+100000010,Male,Not-Single,28,High School,174646,Management/officer/self-employed,Small City
+100000011,Female,Not-Single,25,High School,108469,Skilled,Small City
+100000012,Female,Not-Single,24,High School,127596,Skilled,Small City
+100000013,Female,Not-Single,22,High School,108687,Skilled,Big City
+100000014,Male,Single,60,Graduate,89374,unemployed/unskilled,Small City
+100000015,Female,Not-Single,28,High School,102899,Skilled,mid-Sized City
+100000016,Female,Not-Single,32,High School,88428,unemployed/unskilled,Small City
+100000017,Male,Single,53,High School,125550,Skilled,Small City
+100000018,Male,Single,25,Unknown/Other,157434,Skilled,Big City
+100000019,Female,Not-Single,44,Graduate,261952,Management/officer/self-employed,Big City
+100000020,Male,Single,31,Unknown/Other,144657,Skilled,mid-Sized City
+100000021,Male,Single,48,High School,118777,Skilled,mid-Sized City
+100000022,Male,Single,44,High School,147511,Skilled,mid-Sized City
+100000023,Male,Single,48,High School,89804,unemployed/unskilled,Small City
+100000024,Male,Single,44,High School,134918,Skilled,Big City
+100000025,Male,Not-Single,26,High School,103667,Skilled,Big City
+100000026,Male,Single,36,High School,71909,unemployed/unskilled,Small City
+100000027,Male,Not-Single,39,High School,68264,unemployed/unskilled,Small City
+100000028,Female,Not-Single,42,Graduate,163025,Skilled,mid-Sized City
+100000029,Male,Single,34,High School,119307,Skilled,mid-Sized City
+100000030,Male,Single,63,Graduate,175882,Skilled,Small City
+100000031,Male,Not-Single,36,High School,159646,Skilled,mid-Sized City
+100000032,Male,Single,27,Unknown/Other,120131,Skilled,mid-Sized City
+100000033,Male,Single,30,Unknown/Other,162745,Skilled,Big City
+100000034,Male,Single,57,Graduate,87605,unemployed/unskilled,Small City
+100000035,Female,Not-Single,33,High School,155569,Management/officer/self-employed,mid-Sized City
+100000036,Male,Single,25,Unknown/Other,104505,unemployed/unskilled,Small City
+100000037,Male,Single,31,Unknown/Other,143385,Skilled,Big City
+100000038,Male,Single,37,High School,127676,Skilled,mid-Sized City
+100000039,Male,Single,37,High School,119276,Skilled,mid-Sized City
+100000040,Male,Single,24,Unknown/Other,92542,Skilled,mid-Sized City
+100000041,Male,Single,30,Unknown/Other,163329,Management/officer/self-employed,mid-Sized City
+100000042,Male,Not-Single,26,High School,130921,Skilled,Small City
+100000043,Male,Single,44,High School,133658,unemployed/unskilled,Small City
+100000044,Male,Not-Single,24,High School,155104,Skilled,mid-Sized City
+100000045,Female,Not-Single,58,Graduate,142335,unemployed/unskilled,mid-Sized City
+100000046,Female,Not-Single,35,High School,138387,Management/officer/self-employed,mid-Sized City
+100000047,Male,Single,39,High School,140182,Skilled,Small City
+100000048,Female,Not-Single,23,High School,65421,unemployed/unskilled,Small City
+100000049,Male,Single,39,High School,130500,unemployed/unskilled,Small City
+100000050,Female,Not-Single,28,High School,122831,Skilled,Small City
+100000051,Male,Single,29,Unknown/Other,84531,unemployed/unskilled,Small City
+100000052,Male,Single,30,Unknown/Other,180196,Management/officer/self-employed,Big City
+100000053,Male,Single,25,Unknown/Other,92058,Skilled,Big City
+100000054,Male,Single,31,Unknown/Other,117158,Skilled,Small City
+100000055,Male,Single,57,Graduate,135830,Skilled,mid-Sized City
+100000056,Male,Single,26,Unknown/Other,58258,unemployed/unskilled,Small City
+100000057,Male,Single,52,High School,202575,Management/officer/self-employed,Big City
+100000058,Female,Not-Single,31,High School,183657,Skilled,mid-Sized City
+100000059,Female,Not-Single,23,High School,152267,Management/officer/self-employed,mid-Sized City
+100000060,Female,Not-Single,23,High School,115240,unemployed/unskilled,Small City
+100000061,Male,Not-Single,27,High School,106955,Skilled,Big City
+100000062,Male,Single,50,High School,123641,Skilled,mid-Sized City
+100000063,Male,Single,61,Graduate,166410,Management/officer/self-employed,mid-Sized City
+100000064,Male,Single,25,Unknown/Other,227385,Skilled,Big City
+100000065,Female,Not-Single,26,High School,118372,Skilled,mid-Sized City
+100000066,Male,Single,48,High School,148115,Skilled,mid-Sized City
+100000067,Female,Not-Single,29,High School,111069,Skilled,Small City
+100000068,Male,Not-Single,22,High School,139780,Skilled,Small City
+100000069,Male,Single,37,High School,106978,Skilled,Big City
+100000070,Female,Not-Single,25,High School,110019,Skilled,Big City
+100000071,Female,Not-Single,30,High School,169102,Skilled,mid-Sized City
+100000072,Male,Single,46,High School,73703,unemployed/unskilled,Small City
+100000073,Male,Single,51,High School,141858,Management/officer/self-employed,Big City
+100000074,Female,Not-Single,41,Graduate,135959,unemployed/unskilled,Small City
+100000075,Male,Single,40,High School,140888,Management/officer/self-employed,Big City
+100000076,Male,Single,66,Graduate,157299,Management/officer/self-employed,Big City
+100000077,Male,Single,34,High School,125187,Skilled,mid-Sized City
+100000078,Male,Single,51,High School,155486,Skilled,Big City
+100000079,Male,Single,39,High School,151697,unemployed/unskilled,Small City
+100000080,Male,Not-Single,22,High School,126400,Skilled,mid-Sized City
+100000081,Female,Not-Single,44,Graduate,159246,Skilled,Big City
+100000082,Male,Single,47,High School,136138,Skilled,mid-Sized City
+100000083,Female,Not-Single,24,High School,84792,unemployed/unskilled,Small City
+100000084,Female,Not-Single,58,Graduate,100210,unemployed/unskilled,Small City
+100000085,Male,Single,52,High School,93706,unemployed/unskilled,Small City
+100000086,Female,Not-Single,29,High School,133783,Management/officer/self-employed,mid-Sized City
+100000087,Female,Not-Single,27,High School,110064,Skilled,Big City
+100000088,Male,Single,47,High School,241068,Skilled,mid-Sized City
+100000089,Male,Single,30,Unknown/Other,149022,Management/officer/self-employed,Big City
+100000090,Male,Single,28,Unknown/Other,92973,Skilled,Big City
+100000091,Male,Single,56,High School,110605,Skilled,mid-Sized City
+100000092,Male,Single,54,High School,116604,Skilled,mid-Sized City
+100000093,Female,Not-Single,33,High School,71070,unemployed/unskilled,Small City
+100000094,Male,Single,20,Unknown/Other,128678,Skilled,mid-Sized City
+100000095,Male,Single,54,High School,165230,Skilled,Big City
+100000096,Male,Single,58,Graduate,268340,Skilled,mid-Sized City
+100000097,Female,Not-Single,61,Graduate,135070,Skilled,mid-Sized City
+100000098,Male,Single,34,High School,134794,Skilled,Big City
+100000099,Male,Single,36,High School,120153,Skilled,mid-Sized City
+100000100,Male,Single,36,High School,195465,Management/officer/self-employed,Big City
+100000101,Male,Not-Single,41,High School,93372,unemployed/unskilled,Small City
+100000102,Male,Single,24,Unknown/Other,110446,Skilled,Small City
+100000103,Female,Not-Single,24,High School,95186,Skilled,mid-Sized City
+100000104,Male,Single,35,High School,115343,Skilled,mid-Sized City
+100000105,Male,Not-Single,26,High School,107276,Skilled,mid-Sized City
+100000106,Male,Single,39,High School,244716,Management/officer/self-employed,Big City
+100000107,Male,Single,39,High School,183108,Management/officer/self-employed,Big City
+100000108,Male,Single,32,Unknown/Other,152876,Skilled,Big City
+100000109,Female,Not-Single,30,High School,165147,Skilled,Small City
+100000110,Male,Not-Single,35,High School,140520,Skilled,Small City
+100000111,Male,Not-Single,31,High School,124203,Skilled,mid-Sized City
+100000112,Female,Not-Single,23,High School,107205,Skilled,mid-Sized City
+100000113,Male,Single,28,Unknown/Other,121432,unemployed/unskilled,Big City
+100000114,Female,Not-Single,25,High School,162445,Skilled,Small City
+100000115,Male,Not-Single,35,High School,134112,Skilled,mid-Sized City
+100000116,Male,Single,47,High School,131842,Skilled,mid-Sized City
+100000117,Female,Not-Single,30,High School,189896,Management/officer/self-employed,Small City
+100000118,Female,Not-Single,27,High School,109099,Skilled,Big City
+100000119,Female,Not-Single,23,High School,153539,Skilled,mid-Sized City
+100000120,Male,Not-Single,36,High School,180495,Management/officer/self-employed,mid-Sized City
+100000121,Female,Not-Single,25,High School,104653,Skilled,Big City
+100000122,Female,Not-Single,41,Graduate,166933,Management/officer/self-employed,Big City
+100000123,Male,Single,24,Unknown/Other,66118,unemployed/unskilled,Small City
+100000124,Male,Single,63,Graduate,135754,Skilled,Small City
+100000125,Female,Not-Single,27,High School,116103,Skilled,Big City
+100000126,Male,Single,30,Unknown/Other,104293,Skilled,mid-Sized City
+100000127,Male,Not-Single,40,High School,71702,unemployed/unskilled,Small City
+100000128,Male,Single,30,Unknown/Other,99066,Skilled,Big City
+100000129,Male,Single,34,High School,143979,Management/officer/self-employed,Big City
+100000130,Female,Not-Single,29,High School,123818,Skilled,Small City
+100000131,Female,Not-Single,24,High School,176714,Skilled,Big City
+100000132,Male,Single,29,Unknown/Other,149249,Skilled,Big City
+100000133,Male,Single,27,Unknown/Other,77535,unemployed/unskilled,Small City
+100000134,Male,Single,47,High School,116540,Skilled,mid-Sized City
+100000135,Female,Not-Single,21,High School,194728,Skilled,Small City
+100000136,Female,Not-Single,38,High School,109311,Skilled,Big City
+100000137,Male,Single,27,Unknown/Other,204723,Skilled,Big City
+100000138,Male,Single,66,Graduate,126003,unemployed/unskilled,Small City
+100000139,Male,Single,35,High School,123109,Skilled,mid-Sized City
+100000140,Female,Not-Single,44,Graduate,108251,unemployed/unskilled,Small City
+100000141,Male,Not-Single,27,High School,89908,unemployed/unskilled,Small City
+100000142,Female,Not-Single,30,High School,176057,Management/officer/self-employed,mid-Sized City
+100000143,Male,Single,27,Unknown/Other,144332,Management/officer/self-employed,Big City
+100000144,Male,Single,22,Unknown/Other,101185,Skilled,mid-Sized City
+100000145,Female,Not-Single,23,High School,107406,Skilled,Big City
+100000146,Male,Single,30,Unknown/Other,140665,Skilled,mid-Sized City
+100000147,Female,Not-Single,39,Graduate,106461,Skilled,Small City
+100000148,Female,Not-Single,51,Graduate,127825,Skilled,Small City
+100000149,Male,Single,28,Unknown/Other,133898,Skilled,mid-Sized City
+100000150,Male,Single,46,High School,152383,Skilled,Big City
+100000151,Male,Single,42,High School,119926,Skilled,Small City
+100000152,Male,Single,38,High School,108784,Skilled,Big City
+100000153,Male,Single,24,Unknown/Other,153286,Skilled,mid-Sized City
+100000154,Female,Not-Single,29,High School,214204,Skilled,Big City
+100000155,Male,Single,36,High School,208101,Management/officer/self-employed,Big City
+100000156,Female,Not-Single,20,High School,95355,Skilled,mid-Sized City
+100000157,Male,Single,48,High School,124156,Skilled,mid-Sized City
+100000158,Male,Not-Single,45,Graduate,72215,unemployed/unskilled,Small City
+100000159,Male,Single,38,High School,146529,Skilled,Big City
+100000160,Male,Single,34,High School,75343,unemployed/unskilled,Small City
+100000161,Male,Single,36,High School,129789,Skilled,mid-Sized City
+100000162,Female,Not-Single,30,High School,101153,Skilled,mid-Sized City
+100000163,Male,Single,36,High School,127833,Skilled,Big City
+100000164,Male,Single,70,Graduate,224998,Management/officer/self-employed,Big City
+100000165,Male,Single,36,High School,124445,Skilled,Big City
+100000166,Male,Single,32,Unknown/Other,141116,Skilled,mid-Sized City
+100000167,Female,Not-Single,33,High School,104276,Skilled,Big City
+100000168,Female,Not-Single,20,High School,147687,Skilled,Big City
+100000169,Female,Not-Single,25,High School,125168,Skilled,mid-Sized City
+100000170,Male,Not-Single,31,High School,115369,Skilled,Big City
+100000171,Male,Single,33,High School,95445,Skilled,Small City
+100000172,Female,Not-Single,26,High School,95159,Skilled,mid-Sized City
+100000173,Female,Not-Single,34,High School,153031,Management/officer/self-employed,Big City
+100000174,Male,Single,33,High School,108899,Skilled,Small City
+100000175,Male,Single,26,Unknown/Other,113515,Skilled,mid-Sized City
+100000176,Female,Not-Single,53,Graduate,211229,Management/officer/self-employed,Small City
+100000177,Male,Not-Single,42,Graduate,121307,Skilled,Small City
+100000178,Male,Single,52,High School,131727,Skilled,Big City
+100000179,Male,Single,31,Unknown/Other,133574,Management/officer/self-employed,mid-Sized City
+100000180,Male,Single,65,Graduate,117334,Skilled,Small City
+100000181,Male,Not-Single,28,High School,177291,Skilled,Big City
+100000182,Male,Not-Single,30,High School,168763,Management/officer/self-employed,mid-Sized City
+100000183,Male,Single,40,High School,77720,unemployed/unskilled,Small City
+100000184,Male,Single,50,High School,176645,Skilled,Big City
+100000185,Male,Single,36,High School,106205,Skilled,mid-Sized City
+100000186,Male,Single,31,Unknown/Other,97785,Skilled,mid-Sized City
+100000187,Female,Not-Single,74,Post-Graduate,214364,Management/officer/self-employed,mid-Sized City
+100000188,Male,Single,68,Graduate,74525,unemployed/unskilled,Small City
+100000189,Male,Not-Single,20,High School,98988,Skilled,Small City
+100000190,Female,Not-Single,33,High School,133561,Skilled,mid-Sized City
+100000191,Male,Single,54,High School,217651,Management/officer/self-employed,Big City
+100000192,Male,Single,34,High School,116525,unemployed/unskilled,Small City
+100000193,Male,Single,36,High School,135302,Skilled,Big City
+100000194,Male,Not-Single,29,High School,106434,Skilled,mid-Sized City
+100000195,Male,Single,21,Unknown/Other,128350,Skilled,Big City
+100000196,Female,Not-Single,34,High School,147626,Management/officer/self-employed,Big City
+100000197,Female,Not-Single,28,High School,102697,Skilled,Small City
+100000198,Female,Not-Single,27,High School,120262,Skilled,Small City
+100000199,Male,Single,36,High School,124214,Skilled,Big City
+100000200,Male,Not-Single,40,High School,175223,Management/officer/self-employed,mid-Sized City
+100000201,Male,Single,52,High School,137467,Skilled,Small City
+100000202,Male,Not-Single,27,High School,65815,unemployed/unskilled,Small City
+100000203,Male,Single,26,Unknown/Other,129864,Skilled,mid-Sized City
+100000204,Male,Not-Single,21,High School,88475,Skilled,mid-Sized City
+100000205,Male,Single,38,High School,74666,unemployed/unskilled,Small City
+100000206,Male,Single,38,High School,222294,Management/officer/self-employed,Big City
+100000207,Male,Single,43,High School,112878,Skilled,Small City
+100000208,Male,Single,26,Unknown/Other,103411,Skilled,Big City
+100000209,Male,Not-Single,21,High School,112868,unemployed/unskilled,Small City
+100000210,Male,Single,55,High School,157940,Skilled,Big City
+100000211,Male,Single,33,High School,115835,Skilled,Big City
+100000212,Female,Not-Single,45,Graduate,109807,unemployed/unskilled,Small City
+100000213,Male,Single,50,High School,150699,Skilled,mid-Sized City
+100000214,Male,Single,66,Graduate,178967,Management/officer/self-employed,Small City
+100000215,Male,Single,51,High School,132767,Skilled,Small City
+100000216,Female,Not-Single,39,Graduate,86152,unemployed/unskilled,Small City
+100000217,Male,Single,31,Unknown/Other,114528,Skilled,Big City
+100000218,Male,Single,23,Unknown/Other,133912,Skilled,mid-Sized City
+100000219,Male,Not-Single,24,High School,81210,unemployed/unskilled,Small City
+100000220,Female,Not-Single,64,Post-Graduate,131242,Skilled,Small City
+100000221,Male,Not-Single,26,High School,68804,unemployed/unskilled,Small City
+100000222,Female,Not-Single,23,High School,96961,Skilled,mid-Sized City
+100000223,Male,Single,30,Unknown/Other,90719,Skilled,Big City
+100000224,Male,Single,32,Unknown/Other,114116,Skilled,mid-Sized City
+100000225,Male,Single,30,Unknown/Other,128639,Skilled,mid-Sized City
+100000226,Male,Single,27,Unknown/Other,106623,Skilled,mid-Sized City
+100000227,Male,Single,27,Unknown/Other,236264,Skilled,mid-Sized City
+100000228,Male,Single,53,High School,207783,Management/officer/self-employed,mid-Sized City
+100000229,Male,Single,22,Unknown/Other,91739,Skilled,mid-Sized City
+100000230,Male,Single,22,Unknown/Other,107780,Skilled,Big City
+100000231,Male,Single,26,Unknown/Other,139157,Skilled,Big City
+100000232,Male,Single,51,High School,121751,unemployed/unskilled,Small City
+100000233,Male,Single,35,High School,121974,Skilled,Small City
+100000234,Male,Not-Single,25,High School,70320,unemployed/unskilled,Small City
+100000235,Male,Single,42,High School,78327,unemployed/unskilled,Small City
+100000236,Male,Single,30,Unknown/Other,131433,Management/officer/self-employed,Small City
+100000237,Male,Single,23,Unknown/Other,167076,unemployed/unskilled,Big City
+100000238,Male,Not-Single,61,Graduate,130788,unemployed/unskilled,Small City
+100000239,Female,Not-Single,35,High School,107408,Skilled,mid-Sized City
+100000240,Male,Single,39,High School,115323,Skilled,mid-Sized City
+100000241,Female,Not-Single,29,High School,99012,Skilled,Small City
+100000242,Male,Single,51,High School,115996,Skilled,mid-Sized City
+100000243,Male,Single,24,Unknown/Other,123353,Skilled,mid-Sized City
+100000244,Female,Not-Single,27,High School,100008,Skilled,Small City
+100000245,Female,Not-Single,35,High School,125105,unemployed/unskilled,Small City
+100000246,Male,Single,25,Unknown/Other,92020,Skilled,Big City
+100000247,Male,Single,52,High School,108365,Skilled,Big City
+100000248,Male,Single,35,High School,112979,Skilled,Small City
+100000249,Male,Single,26,Unknown/Other,117221,Skilled,mid-Sized City
+100000250,Female,Not-Single,22,High School,88800,Skilled,Big City
+100000251,Female,Not-Single,39,Graduate,115099,unemployed/unskilled,Small City
+100000252,Female,Not-Single,46,Graduate,113399,unemployed/unskilled,Small City
+100000253,Female,Not-Single,24,High School,115879,Skilled,mid-Sized City
+100000254,Male,Single,35,High School,141270,Skilled,Big City
+100000255,Male,Single,24,Unknown/Other,107633,Skilled,mid-Sized City
+100000256,Male,Single,27,Unknown/Other,131751,unemployed/unskilled,Small City
+100000257,Male,Single,35,High School,83687,unemployed/unskilled,Small City
+100000258,Male,Not-Single,29,High School,106828,Skilled,Big City
+100000259,Female,Not-Single,23,High School,135537,Skilled,mid-Sized City
+100000260,Female,Not-Single,57,Graduate,107142,unemployed/unskilled,Small City
+100000261,Male,Single,27,Unknown/Other,97446,Skilled,mid-Sized City
+100000262,Female,Not-Single,55,Graduate,126357,Skilled,Big City
+100000263,Male,Single,36,High School,169617,Management/officer/self-employed,mid-Sized City
+100000264,Female,Not-Single,57,Graduate,108945,unemployed/unskilled,Small City
+100000265,Male,Single,32,Unknown/Other,67345,unemployed/unskilled,Small City
+100000266,Male,Single,37,High School,106215,Skilled,Small City
+100000267,Male,Single,36,High School,149237,Skilled,Small City
+100000268,Female,Not-Single,38,High School,112124,Skilled,Small City
+100000269,Male,Not-Single,45,Graduate,215150,Management/officer/self-employed,Big City
+100000270,Male,Single,25,Unknown/Other,89534,Skilled,mid-Sized City
+100000271,Male,Single,32,Unknown/Other,111082,Skilled,Big City
+100000272,Female,Not-Single,37,High School,137069,Skilled,mid-Sized City
+100000273,Male,Single,36,High School,244541,Management/officer/self-employed,Big City
+100000274,Male,Single,28,Unknown/Other,120712,Skilled,mid-Sized City
+100000275,Male,Not-Single,34,High School,175367,unemployed/unskilled,Small City
+100000276,Male,Single,32,Unknown/Other,111418,Skilled,mid-Sized City
+100000277,Female,Not-Single,26,High School,110913,Skilled,Small City
+100000278,Male,Not-Single,49,Graduate,84267,unemployed/unskilled,Small City
+100000279,Female,Not-Single,32,High School,136886,Skilled,Big City
+100000280,Male,Single,29,Unknown/Other,144884,Management/officer/self-employed,Big City
+100000281,Male,Single,23,Unknown/Other,151180,Skilled,mid-Sized City
+100000282,Male,Single,50,High School,114997,Skilled,mid-Sized City
+100000283,Male,Single,49,High School,100961,unemployed/unskilled,Small City
+100000284,Male,Single,63,Graduate,124849,Skilled,Big City
+100000285,Male,Not-Single,37,High School,152308,Skilled,Big City
+100000286,Female,Not-Single,35,High School,167945,unemployed/unskilled,mid-Sized City
+100000287,Male,Single,26,Unknown/Other,126706,Skilled,Big City
+100000288,Male,Single,31,Unknown/Other,210017,Management/officer/self-employed,Big City
+100000289,Female,Not-Single,49,Graduate,125665,Skilled,mid-Sized City
+100000290,Male,Not-Single,48,Graduate,111184,Skilled,mid-Sized City
+100000291,Male,Not-Single,26,High School,94134,Skilled,Small City
+100000292,Male,Not-Single,28,High School,214620,Management/officer/self-employed,mid-Sized City
+100000293,Female,Not-Single,44,Graduate,193816,Management/officer/self-employed,mid-Sized City
+100000294,Male,Single,56,High School,168714,Skilled,mid-Sized City
+100000295,Male,Not-Single,46,Graduate,202997,Management/officer/self-employed,mid-Sized City
+100000296,Female,Not-Single,26,High School,192451,Skilled,Big City
+100000297,Female,Not-Single,20,High School,127928,Skilled,Big City
+100000298,Male,Single,45,High School,78253,unemployed/unskilled,Small City
+100000299,Male,Single,43,High School,118446,Skilled,mid-Sized City
+100000300,Male,Single,32,Unknown/Other,161379,Skilled,Big City
+100000301,Female,Not-Single,54,Graduate,56622,unemployed/unskilled,Small City
+100000302,Female,Not-Single,42,Graduate,146117,Skilled,mid-Sized City
+100000303,Male,Single,37,High School,90418,unemployed/unskilled,Small City
+100000304,Male,Single,49,High School,109053,Skilled,Small City
+100000305,Male,Single,44,High School,219319,Skilled,Small City
+100000306,Male,Not-Single,33,High School,144701,Skilled,mid-Sized City
+100000307,Female,Not-Single,24,High School,102425,unemployed/unskilled,Small City
+100000308,Male,Not-Single,33,High School,79867,unemployed/unskilled,Small City
+100000309,Female,Not-Single,24,High School,107114,Skilled,Big City
+100000310,Male,Not-Single,22,High School,62263,unemployed/unskilled,Small City
+100000311,Male,Single,40,High School,92567,unemployed/unskilled,Small City
+100000312,Male,Single,25,Unknown/Other,146349,Skilled,Small City
+100000313,Female,Not-Single,26,High School,141825,Skilled,mid-Sized City
+100000314,Male,Not-Single,25,High School,68582,unemployed/unskilled,Small City
+100000315,Male,Single,29,Unknown/Other,85476,unemployed/unskilled,Small City
+100000316,Male,Single,31,Unknown/Other,111091,Skilled,Big City
+100000317,Male,Single,38,High School,67110,unemployed/unskilled,Small City
+100000318,Female,Not-Single,48,Graduate,126154,unemployed/unskilled,Small City
+100000319,Male,Single,32,Unknown/Other,92257,Skilled,Big City
+100000320,Female,Not-Single,27,High School,93605,unemployed/unskilled,Small City
+100000321,Male,Not-Single,28,High School,165190,Management/officer/self-employed,Small City
+100000322,Male,Not-Single,32,High School,107195,Skilled,Small City
+100000323,Male,Single,34,High School,145059,Management/officer/self-employed,Small City
+100000324,Male,Single,28,Unknown/Other,148363,Skilled,Small City
+100000325,Female,Not-Single,36,High School,105681,Skilled,Big City
+100000326,Male,Single,39,High School,93732,unemployed/unskilled,Small City
+100000327,Male,Single,49,High School,154778,Skilled,Big City
+100000328,Female,Not-Single,34,High School,149356,Skilled,Big City
+100000329,Male,Single,31,Unknown/Other,145670,Skilled,mid-Sized City
+100000330,Male,Single,28,Unknown/Other,101589,Skilled,Big City
+100000331,Male,Single,75,Graduate,213333,Management/officer/self-employed,mid-Sized City
+100000332,Female,Not-Single,30,High School,122420,Skilled,Small City
+100000333,Female,Not-Single,24,High School,209856,Management/officer/self-employed,mid-Sized City
+100000334,Female,Not-Single,24,High School,181003,unemployed/unskilled,Small City
+100000335,Male,Single,23,Unknown/Other,117804,Skilled,mid-Sized City
+100000336,Male,Not-Single,44,Graduate,160650,Management/officer/self-employed,mid-Sized City
+100000337,Female,Not-Single,23,High School,84611,unemployed/unskilled,Small City
+100000338,Female,Not-Single,24,High School,98479,Skilled,Big City
+100000339,Male,Single,28,Unknown/Other,122359,Skilled,Big City
+100000340,Male,Not-Single,31,High School,81394,unemployed/unskilled,Small City
+100000341,Female,Not-Single,24,High School,150372,Skilled,mid-Sized City
+100000342,Female,Not-Single,26,High School,92385,unemployed/unskilled,Small City
+100000343,Male,Not-Single,25,High School,149851,Skilled,Big City
+100000344,Male,Single,33,High School,167939,Management/officer/self-employed,mid-Sized City
+100000345,Male,Single,37,High School,115426,unemployed/unskilled,Small City
+100000346,Female,Not-Single,43,Graduate,85402,unemployed/unskilled,Small City
+100000347,Male,Single,23,Unknown/Other,95815,Skilled,Big City
+100000348,Female,Not-Single,23,High School,97518,unemployed/unskilled,Small City
+100000349,Male,Single,34,High School,87355,unemployed/unskilled,Small City
+100000350,Male,Single,32,Unknown/Other,145933,Skilled,mid-Sized City
+100000351,Female,Not-Single,23,High School,97307,Skilled,Small City
+100000352,Female,Not-Single,29,High School,108434,Skilled,Big City
+100000353,Male,Single,38,High School,151312,Management/officer/self-employed,mid-Sized City
+100000354,Male,Single,28,Unknown/Other,141847,Skilled,mid-Sized City
+100000355,Male,Single,46,High School,130675,Skilled,Big City
+100000356,Male,Single,23,Unknown/Other,69309,unemployed/unskilled,Small City
+100000357,Male,Single,49,High School,121466,Skilled,Big City
+100000358,Male,Single,26,Unknown/Other,153586,Management/officer/self-employed,Big City
+100000359,Male,Not-Single,28,High School,92849,Skilled,Small City
+100000360,Female,Not-Single,23,High School,108539,Skilled,Big City
+100000361,Male,Single,61,Graduate,129556,Skilled,Big City
+100000362,Male,Single,37,High School,170146,Management/officer/self-employed,Small City
+100000363,Female,Not-Single,36,High School,135383,Skilled,mid-Sized City
+100000364,Male,Not-Single,21,High School,96769,Skilled,Big City
+100000365,Male,Single,25,Unknown/Other,43684,unemployed/unskilled,Small City
+100000366,Male,Single,36,High School,103521,Skilled,Small City
+100000367,Male,Single,27,Unknown/Other,118499,Skilled,mid-Sized City
+100000368,Female,Not-Single,22,High School,119684,Skilled,Big City
+100000369,Male,Single,42,High School,126586,Skilled,mid-Sized City
+100000370,Female,Not-Single,40,Graduate,136812,Skilled,Big City
+100000371,Male,Single,36,High School,118277,Skilled,mid-Sized City
+100000372,Male,Single,33,High School,144597,Skilled,mid-Sized City
+100000373,Female,Not-Single,23,High School,106043,Skilled,Small City
+100000374,Male,Single,63,Graduate,272314,Management/officer/self-employed,Big City
+100000375,Female,Not-Single,60,Graduate,309364,Management/officer/self-employed,Big City
+100000376,Female,Not-Single,37,High School,170386,Skilled,mid-Sized City
+100000377,Male,Not-Single,34,High School,112458,Skilled,Small City
+100000378,Male,Single,36,High School,96840,Skilled,mid-Sized City
+100000379,Male,Single,57,Graduate,281923,Management/officer/self-employed,mid-Sized City
+100000380,Female,Not-Single,52,Graduate,95551,unemployed/unskilled,Small City
+100000381,Male,Single,39,High School,112347,Skilled,Big City
+100000382,Female,Not-Single,38,High School,260977,Management/officer/self-employed,Big City
+100000383,Female,Not-Single,25,High School,99354,Skilled,Small City
+100000384,Male,Single,26,Unknown/Other,111509,Skilled,Big City
+100000385,Male,Single,26,Unknown/Other,105252,unemployed/unskilled,Small City
+100000386,Female,Not-Single,25,High School,108522,Skilled,Small City
+100000387,Female,Not-Single,21,High School,94655,Skilled,mid-Sized City
+100000388,Male,Single,40,High School,201699,Management/officer/self-employed,mid-Sized City
+100000389,Male,Single,27,Unknown/Other,139868,Skilled,Big City
+100000390,Female,Not-Single,27,High School,102543,Skilled,mid-Sized City
+100000391,Male,Not-Single,30,High School,134467,Management/officer/self-employed,Big City
+100000392,Female,Not-Single,19,High School,111187,unemployed/unskilled,Small City
+100000393,Male,Single,39,High School,152302,Management/officer/self-employed,mid-Sized City
+100000394,Female,Not-Single,31,High School,110610,Skilled,Big City
+100000395,Male,Single,31,Unknown/Other,137827,Management/officer/self-employed,Big City
+100000396,Male,Single,32,Unknown/Other,220923,Skilled,Big City
+100000397,Female,Not-Single,55,Graduate,165717,Management/officer/self-employed,Big City
+100000398,Male,Not-Single,46,Graduate,122299,Skilled,Small City
+100000399,Male,Not-Single,46,Graduate,120499,Skilled,Small City
+100000400,Female,Not-Single,43,Graduate,126449,unemployed/unskilled,Small City
+100000401,Male,Not-Single,39,High School,108315,Skilled,Big City
+100000402,Male,Not-Single,28,High School,112515,Skilled,mid-Sized City
+100000403,Male,Single,27,Unknown/Other,164559,Skilled,mid-Sized City
+100000404,Male,Single,27,Unknown/Other,59238,unemployed/unskilled,Small City
+100000405,Male,Single,43,High School,131133,Skilled,Small City
+100000406,Male,Not-Single,22,High School,109188,Skilled,Small City
+100000407,Male,Single,43,High School,115393,Skilled,mid-Sized City
+100000408,Male,Not-Single,27,High School,94711,Skilled,Big City
+100000409,Male,Not-Single,26,High School,171860,Management/officer/self-employed,Small City
+100000410,Male,Not-Single,28,High School,139414,Skilled,Big City
+100000411,Female,Not-Single,20,High School,110931,Skilled,mid-Sized City
+100000412,Male,Single,35,High School,187549,Management/officer/self-employed,Big City
+100000413,Male,Single,42,High School,145508,Management/officer/self-employed,Small City
+100000414,Male,Single,40,High School,104240,unemployed/unskilled,Small City
+100000415,Female,Not-Single,35,High School,108272,Skilled,mid-Sized City
+100000416,Male,Single,35,High School,144004,Skilled,Big City
+100000417,Male,Single,33,High School,81083,unemployed/unskilled,Small City
+100000418,Female,Not-Single,23,High School,166763,Skilled,mid-Sized City
+100000419,Female,Not-Single,31,High School,175530,Management/officer/self-employed,mid-Sized City
+100000420,Female,Not-Single,33,High School,112422,Skilled,mid-Sized City
+100000421,Female,Not-Single,20,High School,154134,Skilled,Big City
+100000422,Male,Single,30,Unknown/Other,112401,Skilled,mid-Sized City
+100000423,Male,Single,47,High School,85690,unemployed/unskilled,Small City
+100000424,Male,Single,34,High School,145896,Management/officer/self-employed,Big City
+100000425,Female,Not-Single,25,High School,122552,Skilled,Big City
+100000426,Male,Not-Single,21,High School,115494,Skilled,Big City
+100000427,Male,Single,29,Unknown/Other,109467,Skilled,Small City
+100000428,Male,Single,46,High School,148226,Skilled,Big City
+100000429,Male,Single,20,Unknown/Other,88559,Skilled,mid-Sized City
+100000430,Female,Not-Single,55,Graduate,62393,unemployed/unskilled,Small City
+100000431,Male,Single,74,Graduate,122133,unemployed/unskilled,Small City
+100000432,Male,Single,29,Unknown/Other,230883,Management/officer/self-employed,Big City
+100000433,Male,Single,36,High School,136689,Management/officer/self-employed,Big City
+100000434,Male,Not-Single,33,High School,109145,Skilled,Small City
+100000435,Male,Single,25,Unknown/Other,100449,Skilled,Big City
+100000436,Male,Not-Single,25,High School,106253,Skilled,Small City
+100000437,Male,Not-Single,23,High School,84747,unemployed/unskilled,Small City
+100000438,Female,Not-Single,37,High School,149465,Skilled,mid-Sized City
+100000439,Male,Single,65,Graduate,84435,unemployed/unskilled,Small City
+100000440,Female,Not-Single,26,High School,51681,unemployed/unskilled,Small City
+100000441,Male,Single,39,High School,139198,Management/officer/self-employed,mid-Sized City
+100000442,Female,Not-Single,30,High School,106577,Skilled,mid-Sized City
+100000443,Male,Single,29,Unknown/Other,117372,Skilled,Big City
+100000444,Male,Single,41,High School,69609,unemployed/unskilled,Small City
+100000445,Female,Not-Single,30,High School,178947,Management/officer/self-employed,Big City
+100000446,Female,Not-Single,41,Graduate,81743,unemployed/unskilled,Small City
+100000447,Female,Not-Single,34,High School,111900,Skilled,mid-Sized City
+100000448,Male,Single,35,High School,121650,Skilled,Small City
+100000449,Female,Not-Single,55,Graduate,172639,Management/officer/self-employed,Big City
+100000450,Male,Not-Single,61,Graduate,175740,Skilled,mid-Sized City
+100000451,Male,Single,30,Unknown/Other,220050,Management/officer/self-employed,Big City
+100000452,Female,Not-Single,29,High School,95200,Skilled,mid-Sized City
+100000453,Male,Single,34,High School,113609,Skilled,mid-Sized City
+100000454,Male,Single,35,High School,143552,Management/officer/self-employed,Big City
+100000455,Male,Single,31,Unknown/Other,130973,Skilled,Big City
+100000456,Female,Not-Single,29,High School,145946,Management/officer/self-employed,Big City
+100000457,Male,Single,36,High School,126206,Skilled,mid-Sized City
+100000458,Male,Single,35,High School,120426,Skilled,Small City
+100000459,Female,Not-Single,27,High School,91925,Skilled,Big City
+100000460,Male,Single,32,Unknown/Other,129630,Skilled,Big City
+100000461,Male,Single,37,High School,124268,Skilled,Big City
+100000462,Male,Single,36,High School,105240,Skilled,mid-Sized City
+100000463,Female,Not-Single,34,High School,162180,Management/officer/self-employed,Small City
+100000464,Male,Single,38,High School,106552,Skilled,Big City
+100000465,Male,Single,34,High School,105843,Skilled,Big City
+100000466,Male,Single,63,Graduate,138327,Skilled,mid-Sized City
+100000467,Female,Not-Single,29,High School,76154,unemployed/unskilled,Small City
+100000468,Male,Single,32,Unknown/Other,155012,Skilled,mid-Sized City
+100000469,Female,Not-Single,26,High School,114369,Skilled,mid-Sized City
+100000470,Male,Single,35,High School,102839,unemployed/unskilled,Small City
+100000471,Male,Not-Single,22,High School,132796,Skilled,Small City
+100000472,Female,Not-Single,23,High School,89742,Skilled,Big City
+100000473,Male,Single,28,Unknown/Other,58615,unemployed/unskilled,Small City
+100000474,Male,Single,36,High School,130603,Management/officer/self-employed,Big City
+100000475,Male,Not-Single,33,High School,110340,Skilled,Small City
+100000476,Female,Not-Single,26,High School,117729,Skilled,Big City
+100000477,Male,Single,24,Unknown/Other,130808,Skilled,Small City
+100000478,Male,Single,25,Unknown/Other,147402,Skilled,Big City
+100000479,Male,Single,39,High School,93567,unemployed/unskilled,Small City
+100000480,Male,Single,44,High School,109289,Skilled,mid-Sized City
+100000481,Female,Not-Single,23,High School,98742,unemployed/unskilled,Small City
+100000482,Male,Single,26,Unknown/Other,101270,Skilled,Small City
+100000483,Female,Not-Single,57,Graduate,187835,Skilled,mid-Sized City
+100000484,Female,Not-Single,30,High School,140741,Skilled,Small City
+100000485,Male,Single,44,High School,133265,Skilled,Big City
+100000486,Male,Single,47,High School,148100,Management/officer/self-employed,Big City
+100000487,Male,Single,52,High School,131021,Skilled,Big City
+100000488,Female,Not-Single,62,Graduate,152620,Skilled,Big City
+100000489,Male,Single,35,High School,85033,unemployed/unskilled,Small City
+100000490,Male,Single,26,Unknown/Other,114514,Skilled,mid-Sized City
+100000491,Male,Single,26,Unknown/Other,99307,Skilled,mid-Sized City
+100000492,Female,Not-Single,42,Graduate,219451,Management/officer/self-employed,Big City
+100000493,Female,Not-Single,27,High School,114007,Skilled,Small City
+100000494,Male,Single,38,High School,102846,Skilled,Small City
+100000495,Male,Single,39,High School,81483,unemployed/unskilled,Small City
+100000496,Male,Not-Single,20,High School,107779,Skilled,Big City
+100000497,Male,Single,29,Unknown/Other,222360,Management/officer/self-employed,Big City
+100000498,Male,Single,40,High School,107125,Skilled,Small City
+100000499,Male,Not-Single,32,High School,80080,unemployed/unskilled,Small City
+100000500,Male,Not-Single,28,High School,129600,Skilled,Small City
+100000501,Female,Not-Single,27,High School,118613,Skilled,mid-Sized City
+100000502,Male,Single,42,High School,146237,Skilled,mid-Sized City
+100000503,Male,Not-Single,49,Graduate,144461,Skilled,Big City
+100000504,Male,Single,38,High School,124487,Skilled,Small City
+100000505,Female,Not-Single,24,High School,97826,Skilled,Small City
+100000506,Male,Single,27,Unknown/Other,64105,unemployed/unskilled,Small City
+100000507,Male,Single,36,High School,156374,Skilled,Big City
+100000508,Male,Single,34,High School,205383,Management/officer/self-employed,Big City
+100000509,Male,Not-Single,28,High School,98964,Skilled,Big City
+100000510,Male,Single,45,High School,221842,Management/officer/self-employed,Big City
+100000511,Male,Single,26,Unknown/Other,88027,Skilled,Big City
+100000512,Male,Single,32,Unknown/Other,160513,Management/officer/self-employed,Big City
+100000513,Male,Single,26,Unknown/Other,124536,Skilled,Big City
+100000514,Male,Not-Single,20,High School,93634,Skilled,Small City
+100000515,Male,Single,54,High School,124725,Skilled,Small City
+100000516,Female,Not-Single,37,High School,102456,Skilled,Small City
+100000517,Male,Single,40,High School,74975,unemployed/unskilled,Small City
+100000518,Female,Not-Single,23,High School,153861,Skilled,mid-Sized City
+100000519,Male,Single,43,High School,119351,Skilled,Big City
+100000520,Male,Single,36,High School,95438,Skilled,Big City
+100000521,Male,Single,44,High School,147967,Skilled,Big City
+100000522,Female,Not-Single,24,High School,116863,Skilled,mid-Sized City
+100000523,Male,Single,53,High School,170622,Skilled,mid-Sized City
+100000524,Female,Not-Single,23,High School,132426,Skilled,mid-Sized City
+100000525,Female,Not-Single,26,High School,77519,unemployed/unskilled,Small City
+100000526,Male,Single,30,Unknown/Other,169405,Skilled,Big City
+100000527,Female,Not-Single,31,High School,120030,Skilled,Small City
+100000528,Male,Single,42,High School,77933,unemployed/unskilled,Small City
+100000529,Male,Not-Single,31,High School,109892,Skilled,mid-Sized City
+100000530,Male,Single,41,High School,69062,unemployed/unskilled,Small City
+100000531,Male,Single,32,Unknown/Other,116348,Skilled,Small City
+100000532,Female,Not-Single,28,High School,137188,Skilled,mid-Sized City
+100000533,Male,Not-Single,41,High School,110199,Skilled,Small City
+100000534,Male,Not-Single,26,High School,109890,Skilled,mid-Sized City
+100000535,Male,Single,25,Unknown/Other,109751,Skilled,Big City
+100000536,Male,Not-Single,33,High School,129651,Skilled,mid-Sized City
+100000537,Female,Not-Single,75,Post-Graduate,170113,Management/officer/self-employed,mid-Sized City
+100000538,Female,Not-Single,37,High School,140285,Skilled,mid-Sized City
+100000539,Male,Single,42,High School,198029,Management/officer/self-employed,Big City
+100000540,Female,Not-Single,45,Graduate,120262,unemployed/unskilled,Small City
+100000541,Male,Not-Single,23,High School,105137,Skilled,mid-Sized City
+100000542,Male,Single,60,Graduate,127371,Skilled,Small City
+100000543,Male,Single,31,Unknown/Other,145689,Skilled,Small City
+100000544,Male,Single,34,High School,102617,unemployed/unskilled,mid-Sized City
+100000545,Male,Single,61,Graduate,90709,unemployed/unskilled,Small City
+100000546,Male,Single,43,High School,107099,Skilled,mid-Sized City
+100000547,Female,Not-Single,37,High School,116021,Skilled,Big City
+100000548,Male,Single,32,Unknown/Other,100426,Skilled,Big City
+100000549,Female,Not-Single,24,High School,62249,unemployed/unskilled,Small City
+100000550,Male,Single,35,High School,172957,Skilled,mid-Sized City
+100000551,Female,Not-Single,23,High School,95003,Skilled,mid-Sized City
+100000552,Male,Single,45,High School,109698,unemployed/unskilled,Small City
+100000553,Male,Not-Single,34,High School,157376,Skilled,Small City
+100000554,Male,Single,27,Unknown/Other,123191,Skilled,Big City
+100000555,Female,Not-Single,67,Post-Graduate,171052,Management/officer/self-employed,Small City
+100000556,Male,Single,22,Unknown/Other,99328,Skilled,Small City
+100000557,Female,Not-Single,28,High School,133799,Skilled,Big City
+100000558,Female,Not-Single,29,High School,138256,Skilled,Big City
+100000559,Male,Single,27,Unknown/Other,115638,Skilled,Small City
+100000560,Male,Single,31,Unknown/Other,82238,unemployed/unskilled,Small City
+100000561,Male,Single,49,High School,127543,Skilled,mid-Sized City
+100000562,Male,Single,24,Unknown/Other,63987,unemployed/unskilled,Small City
+100000563,Female,Not-Single,29,High School,114784,Skilled,Small City
+100000564,Male,Single,37,High School,217450,Skilled,mid-Sized City
+100000565,Male,Single,37,High School,173751,Management/officer/self-employed,Big City
+100000566,Female,Not-Single,23,High School,122850,Skilled,Small City
+100000567,Male,Not-Single,36,High School,104953,Skilled,Small City
+100000568,Male,Single,34,High School,152371,Skilled,mid-Sized City
+100000569,Male,Single,41,High School,139905,Skilled,Small City
+100000570,Female,Not-Single,31,High School,156700,Skilled,mid-Sized City
+100000571,Female,Not-Single,23,High School,86488,unemployed/unskilled,Small City
+100000572,Male,Single,38,High School,147472,Skilled,Small City
+100000573,Female,Not-Single,26,High School,169991,Management/officer/self-employed,Small City
+100000574,Female,Not-Single,22,High School,62381,unemployed/unskilled,Small City
+100000575,Male,Single,27,Unknown/Other,70926,unemployed/unskilled,Small City
+100000576,Female,Not-Single,24,High School,113004,Skilled,mid-Sized City
+100000577,Female,Not-Single,27,High School,125760,Skilled,Small City
+100000578,Female,Not-Single,33,High School,111918,Skilled,Big City
+100000579,Male,Not-Single,27,High School,120674,Skilled,mid-Sized City
+100000580,Male,Not-Single,27,High School,63597,unemployed/unskilled,Small City
+100000581,Male,Single,30,Unknown/Other,103069,Skilled,mid-Sized City
+100000582,Male,Single,49,High School,108079,unemployed/unskilled,Small City
+100000583,Female,Not-Single,26,High School,101159,Skilled,mid-Sized City
+100000584,Male,Single,33,High School,88211,unemployed/unskilled,Small City
+100000585,Female,Not-Single,52,Graduate,159052,Management/officer/self-employed,mid-Sized City
+100000586,Female,Not-Single,20,High School,102623,Skilled,Big City
+100000587,Male,Single,36,High School,115589,Skilled,Small City
+100000588,Male,Single,21,Unknown/Other,59127,unemployed/unskilled,Small City
+100000589,Male,Not-Single,47,Graduate,82240,unemployed/unskilled,Small City
+100000590,Male,Single,60,Graduate,129425,Skilled,mid-Sized City
+100000591,Female,Not-Single,58,Graduate,87058,unemployed/unskilled,Small City
+100000592,Female,Not-Single,42,Graduate,128462,Skilled,Big City
+100000593,Female,Not-Single,36,High School,121403,unemployed/unskilled,Small City
+100000594,Female,Not-Single,20,High School,88141,unemployed/unskilled,Small City
+100000595,Male,Single,40,High School,134946,Management/officer/self-employed,Big City
+100000596,Female,Not-Single,32,High School,94058,unemployed/unskilled,Small City
+100000597,Female,Not-Single,23,High School,99285,Skilled,mid-Sized City
+100000598,Male,Single,36,High School,108432,unemployed/unskilled,Small City
+100000599,Male,Single,31,Unknown/Other,111369,Skilled,Small City
+100000600,Male,Single,32,Unknown/Other,122612,Skilled,Big City
+100000601,Female,Not-Single,45,Graduate,134350,Skilled,Small City
+100000602,Female,Not-Single,30,High School,108838,Skilled,Big City
+100000603,Female,Not-Single,34,High School,90852,unemployed/unskilled,Small City
+100000604,Female,Not-Single,28,High School,151580,Management/officer/self-employed,Big City
+100000605,Female,Not-Single,23,High School,115681,Skilled,mid-Sized City
+100000606,Male,Single,22,Unknown/Other,131699,Skilled,mid-Sized City
+100000607,Male,Single,74,Graduate,192481,Management/officer/self-employed,mid-Sized City
+100000608,Female,Not-Single,50,Graduate,155122,Skilled,Big City
+100000609,Male,Single,33,High School,106015,Skilled,Big City
+100000610,Male,Single,45,High School,108378,Skilled,Small City
+100000611,Female,Not-Single,22,High School,105257,Skilled,mid-Sized City
+100000612,Female,Not-Single,48,Graduate,118788,unemployed/unskilled,Small City
+100000613,Female,Not-Single,29,High School,162955,Skilled,Big City
+100000614,Female,Not-Single,22,High School,119511,Skilled,Big City
+100000615,Female,Not-Single,22,High School,102000,Skilled,Small City
+100000616,Male,Single,48,High School,254449,Management/officer/self-employed,mid-Sized City
+100000617,Male,Single,27,Unknown/Other,208446,Management/officer/self-employed,Big City
+100000618,Male,Single,37,High School,124805,Skilled,Small City
+100000619,Female,Not-Single,21,High School,139379,Skilled,Small City
+100000620,Male,Not-Single,49,Graduate,78296,unemployed/unskilled,Small City
+100000621,Male,Single,27,Unknown/Other,125598,Skilled,mid-Sized City
+100000622,Male,Single,32,Unknown/Other,100215,Skilled,Big City
+100000623,Male,Not-Single,38,High School,130951,Skilled,Big City
+100000624,Female,Not-Single,22,High School,102480,Skilled,Big City
+100000625,Male,Single,65,Graduate,136812,Skilled,mid-Sized City
+100000626,Male,Single,35,High School,106919,Skilled,mid-Sized City
+100000627,Male,Single,41,High School,131020,Skilled,Big City
+100000628,Male,Single,29,Unknown/Other,119429,Skilled,mid-Sized City
+100000629,Male,Single,36,High School,154521,Skilled,mid-Sized City
+100000630,Male,Single,64,Graduate,117842,unemployed/unskilled,Small City
+100000631,Female,Not-Single,28,High School,124566,Skilled,Big City
+100000632,Male,Single,44,High School,110009,Skilled,Big City
+100000633,Male,Single,23,Unknown/Other,101210,Skilled,mid-Sized City
+100000634,Female,Not-Single,19,High School,101258,Skilled,Small City
+100000635,Female,Not-Single,25,High School,79045,unemployed/unskilled,Small City
+100000636,Male,Single,47,High School,110866,Skilled,Small City
+100000637,Female,Not-Single,28,High School,129640,Skilled,Big City
+100000638,Male,Single,21,Unknown/Other,227021,Skilled,mid-Sized City
+100000639,Female,Not-Single,34,High School,108549,Skilled,mid-Sized City
+100000640,Male,Single,26,Unknown/Other,122693,Skilled,Small City
+100000641,Female,Not-Single,27,High School,35832,unemployed/unskilled,Small City
+100000642,Male,Single,38,High School,81870,unemployed/unskilled,Small City
+100000643,Male,Single,40,High School,179790,Management/officer/self-employed,Big City
+100000644,Male,Not-Single,33,High School,107158,Skilled,mid-Sized City
+100000645,Male,Not-Single,32,High School,136638,Management/officer/self-employed,mid-Sized City
+100000646,Male,Single,27,Unknown/Other,158147,Skilled,Big City
+100000647,Male,Not-Single,32,High School,132587,Skilled,Big City
+100000648,Female,Not-Single,26,High School,128140,Skilled,Big City
+100000649,Male,Single,38,High School,117405,Skilled,mid-Sized City
+100000650,Male,Single,40,High School,68475,unemployed/unskilled,Small City
+100000651,Male,Single,50,High School,201656,Management/officer/self-employed,Big City
+100000652,Male,Single,37,High School,86967,unemployed/unskilled,Small City
+100000653,Male,Single,45,High School,118006,Skilled,mid-Sized City
+100000654,Male,Single,42,High School,223630,Management/officer/self-employed,Big City
+100000655,Male,Single,35,High School,110442,Skilled,Small City
+100000656,Male,Single,22,Unknown/Other,115691,Skilled,Big City
+100000657,Male,Single,41,High School,80232,unemployed/unskilled,Small City
+100000658,Male,Single,37,High School,187647,Skilled,mid-Sized City
+100000659,Female,Not-Single,28,High School,138952,Skilled,mid-Sized City
+100000660,Male,Single,41,High School,162772,Skilled,Big City
+100000661,Male,Not-Single,23,High School,111862,Skilled,mid-Sized City
+100000662,Male,Not-Single,23,High School,90051,Skilled,mid-Sized City
+100000663,Male,Single,50,High School,121400,Skilled,mid-Sized City
+100000664,Male,Single,35,High School,137000,Management/officer/self-employed,Big City
+100000665,Female,Not-Single,50,Graduate,105031,unemployed/unskilled,Small City
+100000666,Male,Single,27,Unknown/Other,172153,Management/officer/self-employed,Big City
+100000667,Male,Single,34,High School,170184,Skilled,mid-Sized City
+100000668,Female,Not-Single,27,High School,123279,Skilled,mid-Sized City
+100000669,Male,Single,43,High School,140795,Skilled,Small City
+100000670,Male,Single,47,High School,144456,Skilled,Small City
+100000671,Male,Single,27,Unknown/Other,104773,unemployed/unskilled,Small City
+100000672,Male,Single,31,Unknown/Other,153353,Skilled,mid-Sized City
+100000673,Male,Single,42,High School,223018,Management/officer/self-employed,mid-Sized City
+100000674,Male,Not-Single,24,High School,129177,Skilled,Big City
+100000675,Male,Single,41,High School,114475,unemployed/unskilled,mid-Sized City
+100000676,Female,Not-Single,26,High School,161323,Management/officer/self-employed,mid-Sized City
+100000677,Male,Single,33,High School,135765,Skilled,Big City
+100000678,Male,Not-Single,24,High School,158421,Skilled,Small City
+100000679,Male,Single,64,Graduate,103941,unemployed/unskilled,Small City
+100000680,Female,Not-Single,26,High School,101783,Skilled,Big City
+100000681,Female,Not-Single,56,Graduate,126531,Skilled,mid-Sized City
+100000682,Male,Single,37,High School,111394,Skilled,mid-Sized City
+100000683,Male,Not-Single,33,High School,103577,Skilled,Big City
+100000684,Male,Not-Single,47,Graduate,149545,Skilled,mid-Sized City
+100000685,Male,Single,31,Unknown/Other,171857,unemployed/unskilled,Small City
+100000686,Male,Single,34,High School,149782,Skilled,mid-Sized City
+100000687,Male,Single,27,Unknown/Other,112470,Skilled,mid-Sized City
+100000688,Male,Single,30,Unknown/Other,133907,Skilled,Big City
+100000689,Male,Single,35,High School,127849,Skilled,mid-Sized City
+100000690,Male,Single,31,Unknown/Other,160279,Skilled,Big City
+100000691,Male,Not-Single,25,High School,92366,Skilled,Big City
+100000692,Female,Not-Single,25,High School,104794,unemployed/unskilled,Small City
+100000693,Male,Single,29,Unknown/Other,133436,Skilled,mid-Sized City
+100000694,Male,Single,44,High School,110374,unemployed/unskilled,Small City
+100000695,Male,Single,28,Unknown/Other,104263,Skilled,mid-Sized City
+100000696,Male,Single,50,High School,138752,Skilled,Small City
+100000697,Male,Single,29,Unknown/Other,102723,Skilled,Small City
+100000698,Female,Not-Single,38,High School,46297,unemployed/unskilled,Small City
+100000699,Male,Single,24,Unknown/Other,96425,Skilled,mid-Sized City
+100000700,Male,Single,40,High School,158197,Management/officer/self-employed,mid-Sized City
+100000701,Female,Not-Single,29,High School,98008,unemployed/unskilled,Small City
+100000702,Male,Single,46,High School,157473,Skilled,Small City
+100000703,Female,Not-Single,47,Graduate,149306,Skilled,Small City
+100000704,Male,Single,41,High School,139236,Skilled,mid-Sized City
+100000705,Female,Not-Single,32,High School,125890,Skilled,Big City
+100000706,Female,Not-Single,35,High School,173124,Skilled,mid-Sized City
+100000707,Male,Single,24,Unknown/Other,164621,Skilled,mid-Sized City
+100000708,Female,Not-Single,25,High School,124539,Skilled,mid-Sized City
+100000709,Female,Not-Single,25,High School,107614,Skilled,mid-Sized City
+100000710,Male,Single,37,High School,88849,unemployed/unskilled,Small City
+100000711,Male,Single,32,Unknown/Other,148566,Management/officer/self-employed,Big City
+100000712,Female,Not-Single,35,High School,106515,Skilled,Big City
+100000713,Male,Single,46,High School,150465,Management/officer/self-employed,mid-Sized City
+100000714,Male,Single,25,Unknown/Other,60868,unemployed/unskilled,Small City
+100000715,Male,Single,27,Unknown/Other,255198,Management/officer/self-employed,Big City
+100000716,Male,Single,63,Graduate,183178,Skilled,mid-Sized City
+100000717,Male,Single,40,High School,121448,Skilled,Big City
+100000718,Male,Single,32,Unknown/Other,129975,Management/officer/self-employed,Big City
+100000719,Male,Single,31,Unknown/Other,132950,Skilled,Big City
+100000720,Male,Not-Single,31,High School,169314,Skilled,mid-Sized City
+100000721,Male,Single,34,High School,147958,Management/officer/self-employed,mid-Sized City
+100000722,Female,Not-Single,24,High School,139896,Skilled,Big City
+100000723,Female,Not-Single,24,High School,68028,unemployed/unskilled,Small City
+100000724,Female,Not-Single,66,Post-Graduate,133328,unemployed/unskilled,Small City
+100000725,Female,Not-Single,21,High School,108518,Skilled,Big City
+100000726,Female,Not-Single,41,Graduate,112700,unemployed/unskilled,Small City
+100000727,Male,Not-Single,47,Graduate,110190,unemployed/unskilled,Small City
+100000728,Female,Not-Single,25,High School,105104,Skilled,mid-Sized City
+100000729,Female,Not-Single,59,Graduate,184753,Skilled,mid-Sized City
+100000730,Male,Not-Single,36,High School,162521,Skilled,Big City
+100000731,Male,Single,33,High School,156794,Skilled,mid-Sized City
+100000732,Male,Single,21,Unknown/Other,65827,unemployed/unskilled,Small City
+100000733,Female,Not-Single,44,Graduate,88490,unemployed/unskilled,Small City
+100000734,Female,Not-Single,28,High School,154919,Skilled,Big City
+100000735,Female,Not-Single,37,High School,129058,Skilled,Small City
+100000736,Female,Not-Single,29,High School,77532,unemployed/unskilled,Small City
+100000737,Female,Not-Single,23,High School,235417,Management/officer/self-employed,Big City
+100000738,Male,Single,35,High School,113468,unemployed/unskilled,Small City
+100000739,Male,Single,45,High School,190803,Management/officer/self-employed,Big City
+100000740,Female,Not-Single,26,High School,121423,unemployed/unskilled,Small City
+100000741,Male,Single,32,Unknown/Other,121347,Skilled,mid-Sized City
+100000742,Male,Single,23,Unknown/Other,67408,unemployed/unskilled,Small City
+100000743,Male,Single,41,High School,123043,Skilled,mid-Sized City
+100000744,Male,Single,22,Unknown/Other,128387,Skilled,Big City
+100000745,Male,Single,30,Unknown/Other,250050,Management/officer/self-employed,mid-Sized City
+100000746,Male,Single,28,Unknown/Other,69588,unemployed/unskilled,Small City
+100000747,Female,Not-Single,23,High School,109547,Skilled,mid-Sized City
+100000748,Female,Not-Single,37,High School,78840,unemployed/unskilled,Small City
+100000749,Male,Single,26,Unknown/Other,131122,Skilled,Small City
+100000750,Male,Single,33,High School,115403,Skilled,mid-Sized City
+100000751,Female,Not-Single,49,Graduate,110291,Skilled,Big City
+100000752,Female,Not-Single,23,High School,64811,unemployed/unskilled,Small City
+100000753,Female,Not-Single,23,High School,86015,unemployed/unskilled,Small City
+100000754,Female,Not-Single,25,High School,142438,Skilled,Big City
+100000755,Male,Single,55,High School,159303,Skilled,mid-Sized City
+100000756,Female,Not-Single,32,High School,104957,Skilled,mid-Sized City
+100000757,Male,Single,74,Graduate,89502,unemployed/unskilled,Small City
+100000758,Male,Single,39,High School,121313,Skilled,mid-Sized City
+100000759,Male,Single,31,Unknown/Other,98102,Skilled,Small City
+100000760,Male,Single,35,High School,94554,Skilled,mid-Sized City
+100000761,Female,Not-Single,59,Graduate,162591,Skilled,mid-Sized City
+100000762,Female,Not-Single,24,High School,106629,Skilled,Big City
+100000763,Male,Single,24,Unknown/Other,70400,unemployed/unskilled,Small City
+100000764,Male,Single,30,Unknown/Other,235660,Management/officer/self-employed,Big City
+100000765,Male,Not-Single,27,High School,121747,Skilled,Big City
+100000766,Male,Not-Single,40,High School,85060,unemployed/unskilled,Small City
+100000767,Male,Not-Single,31,High School,87630,unemployed/unskilled,Small City
+100000768,Female,Not-Single,31,High School,119673,Skilled,Small City
+100000769,Male,Single,28,Unknown/Other,126060,Skilled,Big City
+100000770,Male,Single,63,Graduate,96145,unemployed/unskilled,Small City
+100000771,Female,Not-Single,26,High School,114830,Skilled,Small City
+100000772,Female,Not-Single,25,High School,194461,Management/officer/self-employed,Big City
+100000773,Male,Single,36,High School,150158,Management/officer/self-employed,Big City
+100000774,Male,Single,52,High School,136323,Skilled,Big City
+100000775,Male,Single,66,Graduate,111858,unemployed/unskilled,Small City
+100000776,Female,Not-Single,25,High School,100198,Skilled,Small City
+100000777,Male,Single,37,High School,123452,Skilled,Big City
+100000778,Female,Not-Single,25,High School,120723,Skilled,mid-Sized City
+100000779,Male,Single,38,High School,215639,Management/officer/self-employed,mid-Sized City
+100000780,Female,Not-Single,67,Post-Graduate,166712,Skilled,mid-Sized City
+100000781,Male,Single,25,Unknown/Other,136300,Skilled,mid-Sized City
+100000782,Male,Single,60,Graduate,166988,Skilled,Big City
+100000783,Male,Single,31,Unknown/Other,77265,unemployed/unskilled,Small City
+100000784,Female,Not-Single,23,High School,85967,unemployed/unskilled,Small City
+100000785,Male,Not-Single,60,Graduate,212020,Management/officer/self-employed,Small City
+100000786,Male,Single,35,High School,126054,unemployed/unskilled,Small City
+100000787,Male,Single,40,High School,144589,Skilled,Small City
+100000788,Male,Single,38,High School,116723,Skilled,mid-Sized City
+100000789,Male,Single,50,High School,168637,Skilled,mid-Sized City
+100000790,Male,Single,27,Unknown/Other,139119,Skilled,mid-Sized City
+100000791,Female,Not-Single,39,Graduate,118610,Skilled,Big City
+100000792,Male,Single,41,High School,183312,Management/officer/self-employed,Big City
+100000793,Male,Not-Single,27,High School,96323,Skilled,Small City
+100000794,Male,Not-Single,51,Graduate,149510,Skilled,Big City
+100000795,Male,Single,32,Unknown/Other,141922,Skilled,Big City
+100000796,Female,Not-Single,22,High School,120233,Skilled,Small City
+100000797,Male,Single,51,High School,172790,Skilled,mid-Sized City
+100000798,Female,Not-Single,22,High School,66720,unemployed/unskilled,Small City
+100000799,Male,Not-Single,54,Graduate,113024,Skilled,mid-Sized City
+100000800,Male,Single,35,High School,51791,unemployed/unskilled,Small City
+100000801,Male,Single,54,High School,118408,Skilled,Big City
+100000802,Female,Not-Single,48,Graduate,101616,unemployed/unskilled,Small City
+100000803,Female,Not-Single,24,High School,127250,Skilled,Small City
+100000804,Male,Single,35,High School,97290,Skilled,Small City
+100000805,Female,Not-Single,24,High School,106970,unemployed/unskilled,Small City
+100000806,Male,Single,24,Unknown/Other,168147,Skilled,Big City
+100000807,Male,Not-Single,26,High School,68468,unemployed/unskilled,Small City
+100000808,Male,Single,65,Graduate,120780,Skilled,Big City
+100000809,Male,Single,55,High School,231992,Management/officer/self-employed,Big City
+100000810,Female,Not-Single,26,High School,53903,unemployed/unskilled,Small City
+100000811,Male,Not-Single,26,High School,101511,Skilled,Big City
+100000812,Male,Not-Single,28,High School,69046,unemployed/unskilled,Small City
+100000813,Male,Single,24,Unknown/Other,171584,Skilled,mid-Sized City
+100000814,Male,Single,54,High School,132367,Skilled,Big City
+100000815,Male,Single,46,High School,134433,Skilled,Big City
+100000816,Female,Not-Single,54,Graduate,190518,Skilled,Small City
+100000817,Male,Not-Single,62,Graduate,152367,Skilled,mid-Sized City
+100000818,Female,Not-Single,24,High School,101157,Skilled,mid-Sized City
+100000819,Male,Not-Single,43,Graduate,279593,Management/officer/self-employed,Big City
+100000820,Male,Not-Single,26,High School,96716,Skilled,Big City
+100000821,Male,Not-Single,27,High School,95171,Skilled,Small City
+100000822,Male,Not-Single,24,High School,129162,Skilled,Big City
+100000823,Male,Single,41,High School,118742,Skilled,Small City
+100000824,Male,Single,47,High School,74511,unemployed/unskilled,Small City
+100000825,Male,Not-Single,35,High School,157272,Management/officer/self-employed,mid-Sized City
+100000826,Male,Not-Single,30,High School,102374,Skilled,Small City
+100000827,Female,Not-Single,33,High School,131492,Skilled,Small City
+100000828,Male,Single,36,High School,128702,Skilled,Big City
+100000829,Male,Single,47,High School,177509,Skilled,Big City
+100000830,Male,Single,38,High School,163451,Skilled,mid-Sized City
+100000831,Male,Single,44,High School,144900,Skilled,mid-Sized City
+100000832,Female,Not-Single,23,High School,97115,Skilled,Big City
+100000833,Male,Single,29,Unknown/Other,196568,Skilled,Big City
+100000834,Female,Not-Single,42,Graduate,158405,Skilled,Small City
+100000835,Female,Not-Single,25,High School,97376,unemployed/unskilled,Small City
+100000836,Male,Single,48,High School,108678,Skilled,mid-Sized City
+100000837,Female,Not-Single,21,High School,92351,Skilled,Small City
+100000838,Female,Not-Single,23,High School,61211,unemployed/unskilled,Small City
+100000839,Male,Single,63,Graduate,138644,Skilled,Small City
+100000840,Male,Not-Single,46,Graduate,124824,Skilled,Big City
+100000841,Male,Single,29,Unknown/Other,132852,Skilled,Small City
+100000842,Male,Single,28,Unknown/Other,81069,unemployed/unskilled,Small City
+100000843,Female,Not-Single,23,High School,104094,Skilled,Big City
+100000844,Male,Single,50,High School,114853,Skilled,Small City
+100000845,Male,Single,47,High School,130344,Skilled,Big City
+100000846,Male,Single,35,High School,135090,Skilled,Small City
+100000847,Male,Single,68,Graduate,179151,Skilled,Big City
+100000848,Male,Not-Single,28,High School,97390,Skilled,mid-Sized City
+100000849,Male,Single,59,Graduate,120160,Skilled,Small City
+100000850,Male,Single,57,Graduate,82277,unemployed/unskilled,Small City
+100000851,Male,Not-Single,33,High School,110844,Skilled,Big City
+100000852,Male,Single,43,High School,133105,Skilled,Small City
+100000853,Male,Single,35,High School,102042,Skilled,Small City
+100000854,Male,Single,32,Unknown/Other,69370,unemployed/unskilled,Small City
+100000855,Male,Single,45,High School,200298,Skilled,mid-Sized City
+100000856,Male,Not-Single,33,High School,117039,Skilled,Big City
+100000857,Female,Not-Single,40,Graduate,107585,Skilled,Big City
+100000858,Male,Single,28,Unknown/Other,114429,Skilled,Small City
+100000859,Female,Not-Single,29,High School,128234,Skilled,Big City
+100000860,Male,Single,26,Unknown/Other,128580,Skilled,Big City
+100000861,Male,Single,27,Unknown/Other,177757,Skilled,mid-Sized City
+100000862,Male,Not-Single,28,High School,106222,Skilled,Small City
+100000863,Female,Not-Single,35,High School,118428,Skilled,Big City
+100000864,Male,Single,32,Unknown/Other,139477,unemployed/unskilled,Small City
+100000865,Male,Single,25,Unknown/Other,71159,unemployed/unskilled,Small City
+100000866,Female,Not-Single,20,High School,131370,Skilled,Big City
+100000867,Female,Not-Single,27,High School,111567,Skilled,Big City
+100000868,Male,Single,42,High School,125482,Skilled,Big City
+100000869,Male,Single,37,High School,160642,Skilled,Big City
+100000870,Female,Not-Single,24,High School,92498,Skilled,Small City
+100000871,Female,Not-Single,40,Graduate,199711,Skilled,Big City
+100000872,Male,Single,46,High School,127588,Skilled,Big City
+100000873,Male,Single,26,Unknown/Other,107508,Skilled,Big City
+100000874,Female,Not-Single,24,High School,94629,Skilled,Big City
+100000875,Male,Single,29,Unknown/Other,87598,unemployed/unskilled,Big City
+100000876,Female,Not-Single,40,Graduate,161194,Skilled,mid-Sized City
+100000877,Male,Single,36,High School,137342,Management/officer/self-employed,Big City
+100000878,Male,Single,28,Unknown/Other,116848,Skilled,mid-Sized City
+100000879,Male,Single,27,Unknown/Other,125190,Management/officer/self-employed,mid-Sized City
+100000880,Male,Single,36,High School,153441,Skilled,Small City
+100000881,Male,Single,38,High School,195328,Management/officer/self-employed,Big City
+100000882,Male,Not-Single,48,Graduate,190413,Skilled,Small City
+100000883,Male,Single,36,High School,118656,Skilled,mid-Sized City
+100000884,Female,Not-Single,65,Post-Graduate,69487,unemployed/unskilled,Small City
+100000885,Male,Not-Single,43,Graduate,145313,Skilled,mid-Sized City
+100000886,Female,Not-Single,53,Graduate,117005,Skilled,mid-Sized City
+100000887,Male,Single,34,High School,123243,Skilled,mid-Sized City
+100000888,Male,Single,23,Unknown/Other,237799,Skilled,mid-Sized City
+100000889,Male,Single,34,High School,180617,Management/officer/self-employed,Big City
+100000890,Male,Single,40,High School,167019,Skilled,Small City
+100000891,Male,Single,43,High School,147745,Management/officer/self-employed,Big City
+100000892,Male,Single,46,High School,114254,Skilled,mid-Sized City
+100000893,Male,Single,38,High School,81155,unemployed/unskilled,Small City
+100000894,Male,Single,34,High School,151803,Skilled,Big City
+100000895,Male,Single,29,Unknown/Other,94356,Skilled,Big City
+100000896,Male,Single,31,Unknown/Other,200621,Management/officer/self-employed,Big City
+100000897,Female,Not-Single,28,High School,144448,Management/officer/self-employed,mid-Sized City
+100000898,Female,Not-Single,35,High School,150797,Skilled,Small City
+100000899,Female,Not-Single,33,High School,84404,unemployed/unskilled,Small City
+100000900,Male,Single,42,High School,133373,Skilled,Big City
+100000901,Male,Single,43,High School,119502,Skilled,Big City
+100000902,Male,Not-Single,44,Graduate,131619,Skilled,Small City
+100000903,Male,Single,42,High School,194084,Skilled,Big City
+100000904,Male,Not-Single,40,High School,108278,Skilled,mid-Sized City
+100000905,Male,Single,36,High School,130987,Management/officer/self-employed,mid-Sized City
+100000906,Male,Single,20,Unknown/Other,116582,Management/officer/self-employed,Big City
+100000907,Male,Single,24,Unknown/Other,85270,unemployed/unskilled,Small City
+100000908,Male,Not-Single,27,High School,129227,Skilled,Small City
+100000909,Female,Not-Single,46,Graduate,108291,unemployed/unskilled,Small City
+100000910,Female,Not-Single,33,High School,103091,unemployed/unskilled,Small City
+100000911,Female,Not-Single,34,High School,136975,Skilled,mid-Sized City
+100000912,Female,Not-Single,25,High School,111502,unemployed/unskilled,Small City
+100000913,Female,Not-Single,25,High School,124750,Skilled,mid-Sized City
+100000914,Male,Not-Single,28,High School,146463,Skilled,Big City
+100000915,Male,Single,31,Unknown/Other,115075,Skilled,Small City
+100000916,Female,Not-Single,32,High School,308491,Management/officer/self-employed,mid-Sized City
+100000917,Male,Single,32,Unknown/Other,126368,Skilled,Small City
+100000918,Male,Single,68,Graduate,287247,Management/officer/self-employed,Big City
+100000919,Male,Not-Single,33,High School,125535,Skilled,Big City
+100000920,Male,Single,39,High School,153223,Management/officer/self-employed,Big City
+100000921,Female,Not-Single,28,High School,106873,Skilled,mid-Sized City
+100000922,Male,Single,37,High School,268906,Management/officer/self-employed,mid-Sized City
+100000923,Female,Not-Single,22,High School,97757,Skilled,Big City
+100000924,Male,Single,30,Unknown/Other,112151,Skilled,mid-Sized City
+100000925,Male,Not-Single,55,Graduate,172909,Skilled,Small City
+100000926,Male,Single,46,High School,103387,Skilled,mid-Sized City
+100000927,Female,Not-Single,21,High School,93916,Skilled,Big City
+100000928,Male,Single,39,High School,189963,Skilled,Big City
+100000929,Male,Single,58,Graduate,124191,Skilled,Small City
+100000930,Male,Single,43,High School,77205,unemployed/unskilled,Small City
+100000931,Male,Single,24,Unknown/Other,65917,unemployed/unskilled,Small City
+100000932,Female,Not-Single,22,High School,109676,Skilled,Small City
+100000933,Male,Single,30,Unknown/Other,95682,Skilled,Big City
+100000934,Male,Single,42,High School,125516,Skilled,Big City
+100000935,Female,Not-Single,23,High School,99822,Skilled,Small City
+100000936,Male,Single,30,Unknown/Other,154854,Management/officer/self-employed,mid-Sized City
+100000937,Female,Not-Single,28,High School,84582,unemployed/unskilled,Small City
+100000938,Male,Not-Single,30,High School,145800,Management/officer/self-employed,Small City
+100000939,Male,Single,42,High School,162869,Skilled,mid-Sized City
+100000940,Male,Single,46,High School,192379,Management/officer/self-employed,Big City
+100000941,Male,Single,45,High School,159757,Management/officer/self-employed,Big City
+100000942,Male,Single,31,Unknown/Other,69571,unemployed/unskilled,Small City
+100000943,Male,Single,31,Unknown/Other,93648,Skilled,Big City
+100000944,Male,Single,42,High School,77472,unemployed/unskilled,Small City
+100000945,Female,Not-Single,46,Graduate,121501,Skilled,Small City
+100000946,Female,Not-Single,30,High School,207262,Skilled,Small City
+100000947,Male,Single,30,Unknown/Other,143082,Skilled,Big City
+100000948,Male,Single,38,High School,147760,Management/officer/self-employed,mid-Sized City
+100000949,Male,Not-Single,43,Graduate,82082,unemployed/unskilled,Small City
+100000950,Male,Single,31,Unknown/Other,132991,Skilled,mid-Sized City
+100000951,Male,Not-Single,40,High School,78436,unemployed/unskilled,Small City
+100000952,Male,Single,24,Unknown/Other,99737,Skilled,Big City
+100000953,Female,Not-Single,28,High School,164915,Skilled,Small City
+100000954,Female,Not-Single,26,High School,223185,Management/officer/self-employed,mid-Sized City
+100000955,Female,Not-Single,29,High School,108400,Skilled,Big City
+100000956,Female,Not-Single,57,Graduate,194882,Management/officer/self-employed,mid-Sized City
+100000957,Male,Single,49,High School,122186,unemployed/unskilled,Small City
+100000958,Male,Single,37,High School,79594,unemployed/unskilled,Small City
+100000959,Male,Single,45,High School,104355,unemployed/unskilled,Small City
+100000960,Male,Single,30,Unknown/Other,135894,Skilled,Big City
+100000961,Male,Not-Single,30,High School,103699,Skilled,mid-Sized City
+100000962,Male,Not-Single,47,Graduate,132145,Skilled,mid-Sized City
+100000963,Male,Single,29,Unknown/Other,117272,Skilled,Big City
+100000964,Male,Single,35,High School,137932,Skilled,Small City
+100000965,Male,Not-Single,22,High School,63972,unemployed/unskilled,Small City
+100000966,Female,Not-Single,26,High School,113299,Skilled,Big City
+100000967,Male,Single,23,Unknown/Other,108540,unemployed/unskilled,Small City
+100000968,Female,Not-Single,54,Graduate,174424,Management/officer/self-employed,Big City
+100000969,Male,Not-Single,29,High School,154991,Skilled,Big City
+100000970,Male,Single,40,High School,99723,unemployed/unskilled,Small City
+100000971,Male,Single,22,Unknown/Other,114584,Skilled,Big City
+100000972,Male,Single,43,High School,135275,unemployed/unskilled,Small City
+100000973,Female,Not-Single,29,High School,41680,unemployed/unskilled,Small City
+100000974,Male,Single,36,High School,158769,Skilled,mid-Sized City
+100000975,Female,Not-Single,33,High School,120596,Skilled,Small City
+100000976,Female,Not-Single,57,Graduate,139641,unemployed/unskilled,Small City
+100000977,Female,Not-Single,64,Post-Graduate,134377,Skilled,Small City
+100000978,Male,Single,42,High School,125804,Skilled,Big City
+100000979,Male,Single,47,High School,91858,unemployed/unskilled,Small City
+100000980,Male,Not-Single,25,High School,117641,Skilled,Big City
+100000981,Male,Single,49,High School,188594,Skilled,mid-Sized City
+100000982,Male,Single,33,High School,162827,Management/officer/self-employed,Big City
+100000983,Female,Not-Single,28,High School,178991,Management/officer/self-employed,Big City
+100000984,Male,Single,26,Unknown/Other,159739,Skilled,mid-Sized City
+100000985,Male,Single,30,Unknown/Other,73401,unemployed/unskilled,Small City
+100000986,Female,Not-Single,25,High School,100794,Skilled,Big City
+100000987,Male,Not-Single,33,High School,167763,Skilled,mid-Sized City
+100000988,Female,Not-Single,64,Post-Graduate,145174,Skilled,Small City
+100000989,Male,Single,29,Unknown/Other,176292,Management/officer/self-employed,mid-Sized City
+100000990,Male,Single,48,High School,94024,unemployed/unskilled,Small City
+100000991,Male,Single,37,High School,93740,unemployed/unskilled,Small City
+100000992,Male,Single,34,High School,85685,unemployed/unskilled,Small City
+100000993,Male,Not-Single,23,High School,69997,unemployed/unskilled,Small City
+100000994,Male,Single,30,Unknown/Other,151938,Management/officer/self-employed,Big City
+100000995,Male,Single,50,High School,122830,Skilled,mid-Sized City
+100000996,Female,Not-Single,31,High School,78489,unemployed/unskilled,Small City
+100000997,Male,Not-Single,40,High School,161999,Management/officer/self-employed,mid-Sized City
+100000998,Male,Single,38,High School,98032,Skilled,Big City
+100000999,Male,Single,23,Unknown/Other,96060,Skilled,Small City
+100001000,Male,Single,27,Unknown/Other,147968,Skilled,mid-Sized City
+100001001,Female,Not-Single,63,Graduate,134853,Skilled,mid-Sized City
+100001002,Male,Single,66,Graduate,157576,Management/officer/self-employed,Big City
+100001003,Male,Not-Single,43,Graduate,203738,Management/officer/self-employed,mid-Sized City
+100001004,Male,Not-Single,44,Graduate,280570,Management/officer/self-employed,Big City
+100001005,Male,Not-Single,65,Post-Graduate,69487,unemployed/unskilled,Big City
+100001006,Female,Not-Single,73,Post-Graduate,214126,Management/officer/self-employed,mid-Sized City
+100001007,Male,Single,60,Graduate,136671,Skilled,mid-Sized City
+100001008,Male,Not-Single,62,Graduate,174337,Skilled,mid-Sized City
+100001009,Female,Not-Single,58,Graduate,126710,Skilled,mid-Sized City
+100001010,Female,Not-Single,43,Graduate,167139,Management/officer/self-employed,Big City
+100001011,Male,Single,64,Graduate,122094,Skilled,Big City
+100001012,Male,Not-Single,37,Post-Graduate,170113,Management/officer/self-employed,Big City
+100001013,Female,Not-Single,46,Graduate,192698,Management/officer/self-employed,mid-Sized City
+100001014,Male,Not-Single,57,Graduate,144197,Skilled,Big City
+100001015,Male,Not-Single,51,Graduate,133623,Skilled,mid-Sized City
+100001016,Female,Not-Single,32,Post-Graduate,171052,Management/officer/self-employed,Big City
+100001017,Male,Single,64,Graduate,130492,Skilled,Big City
+100001018,Male,Single,68,Graduate,135705,Skilled,mid-Sized City
+100001019,Female,Not-Single,55,Graduate,171804,Management/officer/self-employed,Big City
+100001020,Male,Single,73,Graduate,192167,Management/officer/self-employed,mid-Sized City
+100001021,Female,Not-Single,34,Post-Graduate,134377,Skilled,Big City
+100001022,Male,Not-Single,44,Graduate,146716,Skilled,mid-Sized City
+100001023,Male,Single,58,Graduate,267872,Skilled,mid-Sized City
+100001024,Female,Not-Single,65,Graduate,142193,unemployed/unskilled,mid-Sized City
+100001025,Female,Not-Single,56,Graduate,183765,Skilled,mid-Sized City
+100001026,Female,Not-Single,42,Graduate,218664,Management/officer/self-employed,Big City
+100001027,Female,Not-Single,65,Post-Graduate,145174,Skilled,Big City
+100001028,Male,Single,72,Graduate,224961,Management/officer/self-employed,Big City
+100001029,Female,Not-Single,45,Graduate,262634,Management/officer/self-employed,Big City
+100001030,Male,Single,68,Graduate,287106,Management/officer/self-employed,Big City
+100001031,Male,Single,60,Graduate,166298,Management/officer/self-employed,mid-Sized City
+100001032,Female,Not-Single,30,Post-Graduate,133328,unemployed/unskilled,Big City
+100001033,Male,Single,63,Graduate,129798,Skilled,mid-Sized City
+100001034,Male,Single,57,Graduate,281084,Management/officer/self-employed,mid-Sized City
+100001035,Female,Not-Single,46,Graduate,160678,Skilled,Big City
+100001036,Female,Not-Single,70,Post-Graduate,167532,Skilled,mid-Sized City
+100001037,Male,Single,65,Graduate,178591,Skilled,Big City
+100001038,Male,Single,63,Graduate,273063,Management/officer/self-employed,Big City
+100001039,Male,Not-Single,54,Graduate,149410,Skilled,Big City
+100001040,Male,Not-Single,49,Graduate,124658,Skilled,Big City
+100001041,Female,Not-Single,64,Graduate,153645,Skilled,Big City
+100001042,Female,Not-Single,61,Graduate,308529,Management/officer/self-employed,Big City
+100001043,Female,Not-Single,57,Graduate,155062,Skilled,Big City
+100001044,Female,Not-Single,42,Graduate,199654,Skilled,Big City
+100001045,Male,Single,62,Graduate,124723,Skilled,Big City
+100001046,Female,Not-Single,41,Graduate,127752,Skilled,Big City
+100001047,Female,Not-Single,51,Graduate,157595,Management/officer/self-employed,mid-Sized City
+100001048,Female,Not-Single,38,Graduate,135534,Skilled,Big City
+100001049,Female,Not-Single,56,Graduate,166264,Management/officer/self-employed,Big City
+100001050,Female,Not-Single,43,Graduate,147259,Skilled,mid-Sized City
+100001051,Female,Not-Single,48,Graduate,161116,Skilled,mid-Sized City
+100001052,Male,Single,61,Graduate,139380,Skilled,mid-Sized City
+100001053,Male,Not-Single,48,Graduate,213768,Management/officer/self-employed,Big City
+100001054,Male,Single,68,Graduate,125903,Skilled,Big City
+100001055,Female,Not-Single,62,Graduate,163940,Skilled,mid-Sized City
+100001056,Female,Not-Single,56,Graduate,173378,Management/officer/self-employed,Big City
+100001057,Female,Not-Single,53,Graduate,126847,Skilled,mid-Sized City
+100001058,Male,Not-Single,33,Post-Graduate,166712,Skilled,Big City
+100001059,Female,Not-Single,60,Graduate,189166,Skilled,mid-Sized City
+100001060,Female,Not-Single,47,Graduate,161714,Skilled,mid-Sized City
+100001061,Male,Not-Single,25,Post-Graduate,214364,Management/officer/self-employed,Big City
+100001062,Male,Single,64,Graduate,184680,Skilled,mid-Sized City
+100001063,Male,Single,73,Graduate,214732,Management/officer/self-employed,mid-Sized City
+100001064,Male,Not-Single,66,Graduate,152527,Skilled,mid-Sized City
+100001065,Female,Not-Single,76,Post-Graduate,170366,Management/officer/self-employed,mid-Sized City
+100001066,Female,Not-Single,60,Graduate,194532,Management/officer/self-employed,mid-Sized City
+100001067,Female,Not-Single,57,Graduate,125883,Skilled,Big City
+100001068,Male,Not-Single,30,Post-Graduate,131242,Skilled,Big City
+100001069,Male,Not-Single,43,Graduate,159880,Management/officer/self-employed,mid-Sized City
+100001070,Male,Single,57,Graduate,165519,Skilled,Big City
+100001071,Male,Not-Single,51,Graduate,149653,Skilled,mid-Sized City
+100001072,Female,Not-Single,61,Graduate,134102,Skilled,mid-Sized City
+100001073,Male,Single,64,Graduate,159378,Management/officer/self-employed,Big City
+100001074,Male,Not-Single,41,Graduate,205476,Management/officer/self-employed,mid-Sized City
+100001075,Male,Not-Single,43,Graduate,280566,Management/officer/self-employed,Big City
+100001076,Male,Not-Single,67,Post-Graduate,71823,unemployed/unskilled,Big City
+100001077,Female,Not-Single,71,Post-Graduate,211572,Management/officer/self-employed,mid-Sized City
+100001078,Male,Single,59,Graduate,136123,Skilled,mid-Sized City
+100001079,Male,Not-Single,60,Graduate,176372,Skilled,mid-Sized City
+100001080,Female,Not-Single,60,Graduate,128271,Skilled,mid-Sized City
+100001081,Female,Not-Single,45,Graduate,169020,Management/officer/self-employed,Big City
+100001082,Male,Single,63,Graduate,122267,Skilled,Big City
+100001083,Male,Not-Single,38,Post-Graduate,169324,Management/officer/self-employed,Big City
+100001084,Female,Not-Single,46,Graduate,192561,Management/officer/self-employed,mid-Sized City
+100001085,Male,Not-Single,55,Graduate,145781,Skilled,Big City
+100001086,Male,Not-Single,50,Graduate,135376,Skilled,mid-Sized City
+100001087,Female,Not-Single,30,Post-Graduate,169002,Management/officer/self-employed,Big City
+100001088,Male,Single,63,Graduate,128469,Skilled,Big City
+100001089,Male,Single,67,Graduate,135567,Skilled,mid-Sized City
+100001090,Female,Not-Single,54,Graduate,170644,Management/officer/self-employed,Big City
+100001091,Male,Single,71,Graduate,192360,Management/officer/self-employed,mid-Sized City
+100001092,Female,Not-Single,32,Post-Graduate,133235,Skilled,Big City
+100001093,Female,Not-Single,45,Graduate,260847,Management/officer/self-employed,Big City
+100001094,Male,Single,65,Graduate,285647,Management/officer/self-employed,Big City
+100001095,Male,Single,62,Graduate,164816,Management/officer/self-employed,mid-Sized City
+100001096,Female,Not-Single,28,Post-Graduate,130148,unemployed/unskilled,Big City
+100001097,Male,Single,65,Graduate,129838,Skilled,mid-Sized City
+100001098,Male,Single,57,Graduate,281647,Management/officer/self-employed,mid-Sized City
+100001099,Female,Not-Single,48,Graduate,157305,Skilled,Big City
+100001100,Female,Not-Single,71,Post-Graduate,163654,Skilled,mid-Sized City
+100001101,Male,Single,38,High School,82398,Skilled,mid-Sized City
+100001102,Male,Not-Single,40,High School,107710,Skilled,mid-Sized City
+100001103,Male,Single,49,High School,122346,Skilled,mid-Sized City
+100001104,Male,Not-Single,32,High School,155540,Management/officer/self-employed,mid-Sized City
+100001105,Male,Single,45,High School,127572,Skilled,mid-Sized City
+100001106,Male,Single,40,High School,154031,Management/officer/self-employed,mid-Sized City
+100001107,Male,Single,66,Graduate,164931,Management/officer/self-employed,Big City
+100001108,Male,Single,38,High School,123003,Skilled,Big City
+100001109,Male,Not-Single,20,High School,89605,Skilled,mid-Sized City
+100001110,Male,Single,48,High School,117721,Skilled,mid-Sized City
+100001111,Male,Not-Single,46,Graduate,168904,Management/officer/self-employed,mid-Sized City
+100001112,Male,Single,32,High School,137576,Management/officer/self-employed,Big City
+100001113,Male,Single,54,High School,111274,Skilled,mid-Sized City
+100001114,Male,Not-Single,24,High School,94249,Management/officer/self-employed,Big City
+100001115,Male,Not-Single,27,High School,180940,Management/officer/self-employed,mid-Sized City
+100001116,Male,Single,57,High School,125032,Skilled,Big City
+100001117,Male,Single,38,High School,138011,Management/officer/self-employed,mid-Sized City
+100001118,Male,Single,40,High School,144850,Skilled,mid-Sized City
+100001119,Male,Not-Single,20,High School,107270,Skilled,Big City
+100001120,Male,Single,36,High School,113405,Management/officer/self-employed,Big City
+100001121,Male,Single,47,High School,137338,Skilled,Big City
+100001122,Male,Single,64,Graduate,125119,unemployed/unskilled,Big City
+100001123,Male,Single,42,High School,159745,Management/officer/self-employed,Big City
+100001124,Male,Single,44,High School,181262,Management/officer/self-employed,Big City
+100001125,Male,Not-Single,30,High School,90500,Management/officer/self-employed,Big City
+100001126,Male,Single,37,High School,102733,Skilled,mid-Sized City
+100001127,Male,Single,42,High School,135493,Skilled,Big City
+100001128,Male,Not-Single,62,Graduate,169044,Skilled,mid-Sized City
+100001129,Male,Single,49,High School,178549,Skilled,Big City
+100001130,Male,Single,52,High School,159716,Skilled,Big City
+100001131,Male,Not-Single,36,High School,170118,Management/officer/self-employed,mid-Sized City
+100001132,Male,Single,49,High School,143886,unemployed/unskilled,mid-Sized City
+100001133,Male,Single,42,High School,130164,Management/officer/self-employed,Big City
+100001134,Male,Single,38,High School,114476,Skilled,mid-Sized City
+100001135,Male,Single,50,High School,126143,Skilled,mid-Sized City
+100001136,Male,Not-Single,34,High School,129654,Management/officer/self-employed,Big City
+100001137,Male,Single,43,High School,123202,Skilled,Big City
+100001138,Male,Single,40,High School,160524,Skilled,mid-Sized City
+100001139,Male,Single,56,Graduate,126906,Skilled,mid-Sized City
+100001140,Male,Single,41,High School,143994,Management/officer/self-employed,Big City
+100001141,Male,Not-Single,30,High School,123517,Management/officer/self-employed,Big City
+100001142,Male,Not-Single,28,High School,129055,Skilled,Big City
+100001143,Male,Single,64,Graduate,136312,unemployed/unskilled,Big City
+100001144,Male,Single,67,Graduate,112486,Skilled,Big City
+100001145,Male,Single,37,High School,152401,Management/officer/self-employed,mid-Sized City
+100001146,Male,Single,31,High School,157453,Management/officer/self-employed,mid-Sized City
+100001147,Male,Single,32,High School,142870,Management/officer/self-employed,Big City
+100001148,Male,Not-Single,52,Graduate,137231,Skilled,Big City
+100001149,Male,Not-Single,31,High School,104406,Skilled,mid-Sized City
+100001150,Male,Single,36,High School,145385,Management/officer/self-employed,mid-Sized City
+100001151,Male,Not-Single,32,High School,146519,Management/officer/self-employed,mid-Sized City
+100001152,Male,Single,51,High School,126227,Skilled,Big City
+100001153,Male,Single,47,High School,112227,Management/officer/self-employed,mid-Sized City
+100001154,Male,Not-Single,34,High School,110145,Skilled,Big City
+100001155,Male,Not-Single,46,Graduate,149419,Skilled,mid-Sized City
+100001156,Male,Not-Single,42,High School,176646,Skilled,mid-Sized City
+100001157,Male,Single,39,High School,91019,Management/officer/self-employed,mid-Sized City
+100001158,Male,Single,50,High School,169579,Skilled,Big City
+100001159,Male,Single,42,High School,142305,Skilled,Big City
+100001160,Male,Not-Single,36,High School,130602,Skilled,mid-Sized City
+100001161,Male,Not-Single,18,High School,98992,Skilled,mid-Sized City
+100001162,Male,Single,35,High School,181926,Management/officer/self-employed,Big City
+100001163,Male,Single,38,High School,152864,Skilled,Big City
+100001164,Male,Single,39,High School,135837,Management/officer/self-employed,Big City
+100001165,Male,Not-Single,24,High School,121757,unemployed/unskilled,Big City
+100001166,Male,Single,41,High School,182274,Skilled,mid-Sized City
+100001167,Male,Single,36,High School,149040,Management/officer/self-employed,Big City
+100001168,Male,Single,37,High School,154196,Management/officer/self-employed,Big City
+100001169,Male,Not-Single,45,Graduate,135332,Skilled,mid-Sized City
+100001170,Male,Single,41,High School,134200,Management/officer/self-employed,Big City
+100001171,Male,Single,36,High School,177171,Management/officer/self-employed,Big City
+100001172,Male,Single,38,High School,115964,unemployed/unskilled,Big City
+100001173,Male,Single,38,High School,136871,unemployed/unskilled,mid-Sized City
+100001174,Male,Not-Single,53,Graduate,159559,Management/officer/self-employed,Big City
+100001175,Male,Single,35,High School,113878,Skilled,Big City
+100001176,Male,Single,48,High School,171203,Management/officer/self-employed,Big City
+100001177,Male,Single,36,High School,102180,Skilled,Big City
+100001178,Male,Not-Single,22,High School,116844,Management/officer/self-employed,mid-Sized City
+100001179,Male,Single,35,High School,139844,Management/officer/self-employed,Big City
+100001180,Male,Single,42,High School,156431,unemployed/unskilled,mid-Sized City
+100001181,Male,Single,39,High School,116137,unemployed/unskilled,mid-Sized City
+100001182,Male,Single,31,High School,143081,Skilled,mid-Sized City
+100001183,Male,Single,33,High School,155870,Management/officer/self-employed,Big City
+100001184,Male,Not-Single,31,High School,106924,unemployed/unskilled,mid-Sized City
+100001185,Male,Single,42,High School,102133,Skilled,mid-Sized City
+100001186,Male,Single,61,Graduate,145227,unemployed/unskilled,mid-Sized City
+100001187,Male,Single,38,High School,159500,Management/officer/self-employed,Big City
+100001188,Male,Single,33,High School,98498,unemployed/unskilled,mid-Sized City
+100001189,Male,Single,48,High School,159714,Skilled,Big City
+100001190,Male,Single,31,High School,121852,unemployed/unskilled,mid-Sized City
+100001191,Male,Single,52,High School,141271,Management/officer/self-employed,Big City
+100001192,Male,Not-Single,27,High School,123213,Skilled,Big City
+100001193,Male,Single,40,High School,143723,Management/officer/self-employed,mid-Sized City
+100001194,Male,Single,34,High School,112538,unemployed/unskilled,mid-Sized City
+100001195,Male,Not-Single,26,High School,97932,Management/officer/self-employed,Big City
+100001196,Male,Single,30,High School,154003,unemployed/unskilled,mid-Sized City
+100001197,Male,Single,53,High School,177179,Skilled,mid-Sized City
+100001198,Male,Single,45,High School,128052,Skilled,Big City
+100001199,Male,Single,32,High School,114617,Management/officer/self-employed,mid-Sized City
+100001200,Male,Single,35,High School,182822,Management/officer/self-employed,Big City
+100001201,Male,Not-Single,26,High School,177215,Skilled,Big City
+100001202,Male,Single,30,High School,110929,Skilled,mid-Sized City
+100001203,Male,Single,37,High School,111821,Skilled,mid-Sized City
+100001204,Male,Single,32,High School,97306,Management/officer/self-employed,mid-Sized City
+100001205,Male,Not-Single,40,High School,157231,Skilled,mid-Sized City
+100001206,Male,Single,44,High School,126906,unemployed/unskilled,Big City
+100001207,Male,Single,43,High School,133243,Skilled,Big City
+100001208,Male,Single,51,High School,112250,Skilled,mid-Sized City
+100001209,Male,Single,37,High School,104349,unemployed/unskilled,mid-Sized City
+100001210,Male,Single,33,High School,151421,Skilled,Big City
+100001211,Male,Not-Single,32,High School,178081,Management/officer/self-employed,mid-Sized City
+100001212,Male,Single,35,High School,110181,unemployed/unskilled,Big City
+100001213,Male,Not-Single,30,High School,113012,Skilled,mid-Sized City
+100001214,Male,Not-Single,35,High School,154585,Management/officer/self-employed,Big City
+100001215,Male,Single,40,High School,144704,Management/officer/self-employed,mid-Sized City
+100001216,Male,Single,37,High School,141632,Management/officer/self-employed,Big City
+100001217,Male,Single,37,High School,105055,Skilled,Big City
+100001218,Male,Single,37,High School,124597,Skilled,Big City
+100001219,Male,Single,53,High School,160164,Management/officer/self-employed,mid-Sized City
+100001220,Male,Single,34,High School,151754,Management/officer/self-employed,mid-Sized City
+100001221,Male,Single,51,High School,155551,Skilled,mid-Sized City
+100001222,Male,Not-Single,26,High School,94986,Skilled,Big City
+100001223,Male,Single,34,High School,175800,unemployed/unskilled,mid-Sized City
+100001224,Male,Single,51,High School,126246,Management/officer/self-employed,mid-Sized City
+100001225,Male,Single,33,High School,116261,Skilled,Big City
+100001226,Male,Not-Single,32,High School,117796,unemployed/unskilled,Big City
+100001227,Male,Single,39,High School,115363,Skilled,mid-Sized City
+100001228,Male,Single,53,High School,169076,Skilled,mid-Sized City
+100001229,Male,Single,34,High School,97474,Management/officer/self-employed,Big City
+100001230,Male,Single,37,High School,140341,Skilled,Big City
+100001231,Male,Not-Single,28,High School,114503,Skilled,mid-Sized City
+100001232,Male,Not-Single,25,High School,102937,Skilled,Big City
+100001233,Male,Single,36,High School,151781,Management/officer/self-employed,Big City
+100001234,Male,Not-Single,36,High School,123133,Skilled,Big City
+100001235,Male,Single,35,High School,118879,Skilled,Big City
+100001236,Male,Not-Single,21,High School,158683,Skilled,mid-Sized City
+100001237,Male,Not-Single,29,High School,107514,Skilled,Big City
+100001238,Male,Single,60,Graduate,193879,Skilled,mid-Sized City
+100001239,Male,Single,45,High School,135043,Skilled,mid-Sized City
+100001240,Male,Not-Single,56,Graduate,108559,unemployed/unskilled,mid-Sized City
+100001241,Male,Not-Single,30,High School,121038,Skilled,Big City
+100001242,Male,Single,52,High School,151947,Management/officer/self-employed,Big City
+100001243,Male,Not-Single,26,High School,118820,Skilled,mid-Sized City
+100001244,Male,Single,43,High School,121517,Skilled,mid-Sized City
+100001245,Male,Single,34,High School,113572,Skilled,mid-Sized City
+100001246,Male,Not-Single,22,High School,131170,Skilled,Big City
+100001247,Male,Single,42,High School,92430,unemployed/unskilled,mid-Sized City
+100001248,Male,Single,38,High School,124554,unemployed/unskilled,mid-Sized City
+100001249,Male,Not-Single,29,High School,115988,Skilled,Big City
+100001250,Male,Single,44,High School,107301,Skilled,Big City
+100001251,Male,Not-Single,29,High School,103767,Management/officer/self-employed,mid-Sized City
+100001252,Male,Single,44,High School,141493,Skilled,Big City
+100001253,Male,Single,38,High School,154339,Skilled,Big City
+100001254,Male,Not-Single,26,High School,112369,unemployed/unskilled,mid-Sized City
+100001255,Male,Single,53,High School,158193,Skilled,mid-Sized City
+100001256,Male,Single,43,High School,143734,Skilled,mid-Sized City
+100001257,Male,Single,33,High School,121890,Skilled,mid-Sized City
+100001258,Male,Single,52,High School,127609,unemployed/unskilled,mid-Sized City
+100001259,Male,Not-Single,26,High School,94650,unemployed/unskilled,Big City
+100001260,Male,Single,38,High School,175504,Management/officer/self-employed,mid-Sized City
+100001261,Male,Single,47,High School,165495,Skilled,Big City
+100001262,Male,Not-Single,26,High School,120389,Skilled,mid-Sized City
+100001263,Male,Not-Single,36,High School,165340,Skilled,mid-Sized City
+100001264,Male,Single,36,High School,119804,Skilled,mid-Sized City
+100001265,Male,Single,57,Graduate,154344,Management/officer/self-employed,mid-Sized City
+100001266,Male,Not-Single,31,High School,106266,Management/officer/self-employed,Big City
+100001267,Male,Single,45,High School,136129,Skilled,mid-Sized City
+100001268,Male,Single,40,High School,151914,Management/officer/self-employed,mid-Sized City
+100001269,Male,Not-Single,21,High School,121473,Skilled,mid-Sized City
+100001270,Male,Single,46,High School,127147,Skilled,Big City
+100001271,Male,Single,35,High School,125387,Skilled,Big City
+100001272,Male,Not-Single,31,High School,139490,unemployed/unskilled,Big City
+100001273,Male,Single,51,High School,124990,Skilled,Big City
+100001274,Male,Not-Single,21,High School,101471,Management/officer/self-employed,mid-Sized City
+100001275,Male,Single,48,High School,155708,Skilled,mid-Sized City
+100001276,Male,Single,48,High School,142345,Skilled,Big City
+100001277,Male,Single,68,Graduate,148675,unemployed/unskilled,mid-Sized City
+100001278,Male,Not-Single,45,Graduate,116484,Skilled,Big City
+100001279,Male,Single,35,High School,150237,Management/officer/self-employed,Big City
+100001280,Male,Not-Single,22,High School,100273,Skilled,Big City
+100001281,Male,Single,44,High School,122292,unemployed/unskilled,mid-Sized City
+100001282,Male,Single,52,High School,159216,Skilled,mid-Sized City
+100001283,Male,Single,48,High School,130082,Skilled,Big City
+100001284,Male,Single,33,High School,139547,Skilled,Big City
+100001285,Male,Not-Single,35,High School,122895,Skilled,mid-Sized City
+100001286,Male,Not-Single,64,Graduate,154549,Skilled,mid-Sized City
+100001287,Male,Single,58,High School,149315,unemployed/unskilled,Big City
+100001288,Male,Not-Single,24,High School,118101,unemployed/unskilled,Big City
+100001289,Male,Single,40,High School,115831,unemployed/unskilled,Big City
+100001290,Male,Single,49,High School,118571,Management/officer/self-employed,Big City
+100001291,Male,Single,31,High School,138906,Skilled,Big City
+100001292,Male,Single,46,High School,98520,Skilled,Big City
+100001293,Male,Single,46,High School,106576,Skilled,mid-Sized City
+100001294,Male,Single,49,High School,121592,Skilled,mid-Sized City
+100001295,Male,Single,29,High School,135605,unemployed/unskilled,mid-Sized City
+100001296,Male,Single,37,High School,114552,Skilled,Big City
+100001297,Male,Single,33,High School,151339,Management/officer/self-employed,mid-Sized City
+100001298,Male,Single,71,Graduate,170387,Skilled,Big City
+100001299,Male,Single,35,High School,118288,Skilled,Big City
+100001300,Male,Single,40,High School,109992,Skilled,Big City
+100001301,Female,Single,27,High School,90654,unemployed/unskilled,Small City
+100001302,Female,Single,61,Graduate,113290,unemployed/unskilled,Small City
+100001303,Female,Not-Single,29,High School,100093,Skilled,mid-Sized City
+100001304,Female,Single,33,High School,109489,Skilled,Small City
+100001305,Female,Single,56,Graduate,139427,unemployed/unskilled,Small City
+100001306,Female,Not-Single,27,High School,123411,Skilled,mid-Sized City
+100001307,Female,Not-Single,22,High School,137925,Skilled,Small City
+100001308,Female,Not-Single,19,High School,99119,Skilled,Small City
+100001309,Female,Not-Single,28,High School,91084,Skilled,mid-Sized City
+100001310,Female,Not-Single,24,High School,110137,Skilled,mid-Sized City
+100001311,Female,Not-Single,27,High School,67041,unemployed/unskilled,Small City
+100001312,Female,Not-Single,30,High School,127299,Skilled,mid-Sized City
+100001313,Female,Single,26,High School,84555,unemployed/unskilled,Small City
+100001314,Female,Not-Single,26,High School,123895,Skilled,Small City
+100001315,Female,Not-Single,23,High School,94324,Skilled,mid-Sized City
+100001316,Female,Not-Single,28,High School,96062,Skilled,Small City
+100001317,Female,Not-Single,67,Post-Graduate,144843,Skilled,Small City
+100001318,Female,Not-Single,27,High School,107485,Skilled,mid-Sized City
+100001319,Female,Not-Single,32,High School,98573,Skilled,Small City
+100001320,Female,Single,24,High School,107462,unemployed/unskilled,Small City
+100001321,Female,Not-Single,28,High School,115809,Skilled,mid-Sized City
+100001322,Female,Single,48,Graduate,118749,unemployed/unskilled,Small City
+100001323,Female,Not-Single,32,High School,139112,Skilled,mid-Sized City
+100001324,Female,Not-Single,25,High School,94075,Skilled,Small City
+100001325,Female,Not-Single,57,Graduate,62002,unemployed/unskilled,Small City
+100001326,Female,Not-Single,28,High School,127262,Skilled,Small City
+100001327,Female,Not-Single,24,High School,122846,Skilled,mid-Sized City
+100001328,Female,Not-Single,25,High School,61907,unemployed/unskilled,Small City
+100001329,Female,Single,31,High School,89287,unemployed/unskilled,Small City
+100001330,Female,Single,33,High School,103696,Skilled,mid-Sized City
+100001331,Female,Not-Single,50,Graduate,147603,Skilled,Small City
+100001332,Female,Not-Single,58,Graduate,139229,unemployed/unskilled,mid-Sized City
+100001333,Female,Not-Single,27,High School,107932,unemployed/unskilled,Small City
+100001334,Female,Not-Single,48,Graduate,116235,unemployed/unskilled,Small City
+100001335,Female,Not-Single,22,High School,85974,unemployed/unskilled,Small City
+100001336,Female,Not-Single,40,High School,124001,unemployed/unskilled,Small City
+100001337,Female,Not-Single,32,High School,121428,Skilled,Small City
+100001338,Female,Single,25,High School,93233,unemployed/unskilled,Small City
+100001339,Female,Not-Single,27,High School,67965,unemployed/unskilled,Small City
+100001340,Female,Not-Single,27,High School,88001,unemployed/unskilled,Small City
+100001341,Female,Not-Single,23,High School,129112,Skilled,Small City
+100001342,Female,Not-Single,32,High School,109324,Skilled,mid-Sized City
+100001343,Female,Not-Single,25,High School,112785,Skilled,mid-Sized City
+100001344,Female,Not-Single,46,Graduate,136735,unemployed/unskilled,Small City
+100001345,Female,Not-Single,21,High School,107779,Skilled,mid-Sized City
+100001346,Female,Not-Single,29,High School,103526,Skilled,Small City
+100001347,Female,Not-Single,31,High School,93171,unemployed/unskilled,Small City
+100001348,Female,Single,26,High School,106559,unemployed/unskilled,Small City
+100001349,Female,Not-Single,23,High School,112728,Skilled,mid-Sized City
+100001350,Female,Single,38,High School,102855,Skilled,mid-Sized City
+100001351,Female,Single,35,High School,85381,unemployed/unskilled,Small City
+100001352,Female,Not-Single,27,High School,100762,Skilled,mid-Sized City
+100001353,Female,Not-Single,22,High School,131445,Skilled,mid-Sized City
+100001354,Female,Not-Single,52,Graduate,123194,Skilled,Small City
+100001355,Female,Not-Single,19,High School,99519,Skilled,mid-Sized City
+100001356,Female,Not-Single,23,High School,112853,Skilled,Small City
+100001357,Female,Single,42,High School,110509,Skilled,Small City
+100001358,Female,Not-Single,27,High School,106446,Skilled,mid-Sized City
+100001359,Female,Not-Single,39,Graduate,89665,unemployed/unskilled,Small City
+100001360,Female,Not-Single,50,Graduate,128233,Skilled,mid-Sized City
+100001361,Female,Not-Single,36,High School,133615,Skilled,Small City
+100001362,Female,Not-Single,25,High School,115833,Skilled,mid-Sized City
+100001363,Female,Not-Single,27,High School,65560,unemployed/unskilled,Small City
+100001364,Female,Not-Single,30,High School,118642,Skilled,Small City
+100001365,Female,Single,22,High School,63635,unemployed/unskilled,Small City
+100001366,Female,Not-Single,27,High School,122649,Skilled,mid-Sized City
+100001367,Female,Single,31,High School,143321,Management/officer/self-employed,mid-Sized City
+100001368,Female,Not-Single,29,High School,99556,Skilled,Small City
+100001369,Female,Single,34,High School,36760,unemployed/unskilled,Small City
+100001370,Female,Single,33,High School,71935,unemployed/unskilled,Small City
+100001371,Female,Not-Single,26,High School,114977,Skilled,Small City
+100001372,Female,Not-Single,36,High School,147691,Skilled,mid-Sized City
+100001373,Female,Not-Single,26,High School,54296,unemployed/unskilled,Small City
+100001374,Female,Not-Single,39,High School,80014,unemployed/unskilled,Small City
+100001375,Female,Not-Single,44,Graduate,77887,unemployed/unskilled,Small City
+100001376,Female,Not-Single,46,Graduate,98517,unemployed/unskilled,Small City
+100001377,Female,Not-Single,31,High School,103012,unemployed/unskilled,Small City
+100001378,Female,Single,26,High School,121377,Skilled,Small City
+100001379,Female,Not-Single,22,High School,91359,Skilled,mid-Sized City
+100001380,Female,Single,48,Graduate,104833,unemployed/unskilled,Small City
+100001381,Female,Not-Single,27,High School,101209,Skilled,Small City
+100001382,Female,Single,30,High School,58207,unemployed/unskilled,Small City
+100001383,Female,Not-Single,27,High School,116708,Skilled,mid-Sized City
+100001384,Female,Not-Single,36,High School,107471,Skilled,mid-Sized City
+100001385,Female,Not-Single,31,High School,128495,Skilled,Small City
+100001386,Female,Single,21,High School,124468,Skilled,Small City
+100001387,Female,Not-Single,26,High School,106922,Skilled,mid-Sized City
+100001388,Female,Single,24,High School,104291,Skilled,Small City
+100001389,Female,Not-Single,29,High School,98204,Skilled,Small City
+100001390,Female,Not-Single,32,High School,127071,Skilled,Small City
+100001391,Female,Not-Single,45,Graduate,85115,unemployed/unskilled,Small City
+100001392,Female,Not-Single,58,Graduate,104013,unemployed/unskilled,Small City
+100001393,Female,Not-Single,25,High School,89863,Skilled,Small City
+100001394,Female,Not-Single,67,Post-Graduate,135300,Skilled,Small City
+100001395,Female,Not-Single,53,Graduate,107861,unemployed/unskilled,Small City
+100001396,Female,Not-Single,24,High School,123994,Skilled,Small City
+100001397,Female,Single,20,High School,91270,unemployed/unskilled,Small City
+100001398,Female,Not-Single,71,Post-Graduate,133245,unemployed/unskilled,Small City
+100001399,Female,Not-Single,31,High School,118594,Skilled,mid-Sized City
+100001400,Female,Not-Single,27,High School,40606,unemployed/unskilled,Small City
+100001401,Female,Not-Single,36,High School,129304,unemployed/unskilled,Small City
+100001402,Female,Not-Single,25,High School,113118,Skilled,Small City
+100001403,Female,Single,41,High School,133131,Skilled,Small City
+100001404,Female,Not-Single,30,High School,106876,Skilled,mid-Sized City
+100001405,Female,Not-Single,32,High School,130870,Skilled,mid-Sized City
+100001406,Female,Not-Single,29,High School,125621,unemployed/unskilled,Small City
+100001407,Female,Single,27,High School,78923,unemployed/unskilled,Small City
+100001408,Female,Not-Single,32,High School,123983,Skilled,Small City
+100001409,Female,Not-Single,25,High School,75184,unemployed/unskilled,Small City
+100001410,Female,Single,24,High School,109693,Skilled,Small City
+100001411,Female,Not-Single,63,Graduate,86273,unemployed/unskilled,Small City
+100001412,Female,Single,42,Graduate,113190,unemployed/unskilled,Small City
+100001413,Female,Not-Single,22,High School,109274,unemployed/unskilled,Small City
+100001414,Female,Not-Single,46,Graduate,143489,Skilled,mid-Sized City
+100001415,Female,Not-Single,24,High School,99570,Skilled,mid-Sized City
+100001416,Female,Single,30,High School,139468,Skilled,mid-Sized City
+100001417,Female,Not-Single,44,Graduate,108627,unemployed/unskilled,Small City
+100001418,Female,Single,25,High School,106355,Skilled,Small City
+100001419,Female,Not-Single,27,High School,96952,Skilled,Small City
+100001420,Female,Not-Single,27,High School,141502,Skilled,mid-Sized City
+100001421,Female,Not-Single,34,High School,110420,Skilled,mid-Sized City
+100001422,Female,Not-Single,18,High School,97741,Skilled,mid-Sized City
+100001423,Female,Not-Single,25,High School,99583,Skilled,mid-Sized City
+100001424,Female,Not-Single,21,High School,63698,unemployed/unskilled,Small City
+100001425,Female,Not-Single,26,High School,116688,Skilled,mid-Sized City
+100001426,Female,Not-Single,27,High School,131542,Management/officer/self-employed,mid-Sized City
+100001427,Female,Single,25,High School,136055,Skilled,mid-Sized City
+100001428,Female,Not-Single,30,High School,100195,Skilled,mid-Sized City
+100001429,Female,Single,66,Post-Graduate,131001,Skilled,Small City
+100001430,Female,Not-Single,25,High School,104062,Skilled,mid-Sized City
+100001431,Female,Not-Single,43,Graduate,137689,Skilled,Small City
+100001432,Female,Not-Single,35,High School,137705,Skilled,mid-Sized City
+100001433,Female,Single,70,Post-Graduate,69915,unemployed/unskilled,Small City
+100001434,Female,Single,35,High School,68731,unemployed/unskilled,Small City
+100001435,Female,Not-Single,26,High School,105726,Skilled,Small City
+100001436,Female,Single,29,High School,78078,unemployed/unskilled,Small City
+100001437,Female,Not-Single,22,High School,110835,unemployed/unskilled,Small City
+100001438,Female,Single,26,High School,115531,Skilled,mid-Sized City
+100001439,Female,Not-Single,36,High School,92723,unemployed/unskilled,Small City
+100001440,Female,Not-Single,35,High School,107509,Skilled,mid-Sized City
+100001441,Female,Not-Single,28,High School,116763,Skilled,mid-Sized City
+100001442,Female,Not-Single,24,High School,100733,Skilled,Small City
+100001443,Female,Not-Single,34,High School,92652,unemployed/unskilled,Small City
+100001444,Female,Not-Single,25,High School,106987,Skilled,Small City
+100001445,Female,Not-Single,54,Graduate,51882,unemployed/unskilled,Small City
+100001446,Female,Single,46,Graduate,104751,unemployed/unskilled,Small City
+100001447,Female,Not-Single,42,High School,50947,unemployed/unskilled,Small City
+100001448,Female,Single,45,Graduate,126986,unemployed/unskilled,Small City
+100001449,Female,Single,48,Graduate,110223,unemployed/unskilled,Small City
+100001450,Female,Single,21,High School,100591,unemployed/unskilled,Small City
+100001451,Female,Not-Single,31,High School,123257,Skilled,Small City
+100001452,Female,Single,35,High School,137736,Skilled,mid-Sized City
+100001453,Female,Not-Single,36,High School,110221,Skilled,mid-Sized City
+100001454,Female,Not-Single,32,High School,99703,unemployed/unskilled,Small City
+100001455,Female,Not-Single,26,High School,106667,unemployed/unskilled,Small City
+100001456,Female,Not-Single,34,High School,143319,Skilled,Small City
+100001457,Female,Not-Single,65,Graduate,135557,Skilled,mid-Sized City
+100001458,Female,Not-Single,50,Graduate,93390,unemployed/unskilled,Small City
+100001459,Female,Not-Single,39,High School,97577,Skilled,Small City
+100001460,Female,Single,52,Graduate,124196,unemployed/unskilled,Small City
+100001461,Female,Not-Single,36,High School,81136,unemployed/unskilled,Small City
+100001462,Female,Not-Single,29,High School,119439,Skilled,Small City
+100001463,Female,Not-Single,36,High School,145231,Skilled,mid-Sized City
+100001464,Female,Not-Single,36,High School,85623,unemployed/unskilled,Small City
+100001465,Female,Not-Single,27,High School,145373,Skilled,mid-Sized City
+100001466,Female,Not-Single,36,High School,135896,Management/officer/self-employed,mid-Sized City
+100001467,Female,Not-Single,26,High School,106470,Skilled,mid-Sized City
+100001468,Female,Single,57,Graduate,113334,Skilled,mid-Sized City
+100001469,Female,Single,27,High School,100560,unemployed/unskilled,Small City
+100001470,Female,Not-Single,58,Graduate,108442,unemployed/unskilled,Small City
+100001471,Female,Not-Single,27,High School,64472,unemployed/unskilled,Small City
+100001472,Female,Not-Single,49,Graduate,120207,Skilled,Small City
+100001473,Female,Not-Single,43,Graduate,101680,Skilled,Small City
+100001474,Female,Single,45,Graduate,92342,unemployed/unskilled,Small City
+100001475,Female,Not-Single,27,High School,98611,unemployed/unskilled,Small City
+100001476,Female,Not-Single,34,High School,97613,Skilled,mid-Sized City
+100001477,Female,Not-Single,21,High School,82298,unemployed/unskilled,Small City
+100001478,Female,Not-Single,54,Graduate,125302,Skilled,mid-Sized City
+100001479,Female,Not-Single,43,Graduate,108725,unemployed/unskilled,Small City
+100001480,Female,Single,25,High School,85569,unemployed/unskilled,Small City
+100001481,Female,Single,57,Graduate,110372,unemployed/unskilled,Small City
+100001482,Female,Not-Single,26,High School,100511,Skilled,mid-Sized City
+100001483,Female,Single,30,High School,110455,Skilled,Small City
+100001484,Female,Single,58,Graduate,141993,unemployed/unskilled,Small City
+100001485,Female,Not-Single,25,High School,121789,Skilled,mid-Sized City
+100001486,Female,Not-Single,23,High School,138967,Skilled,Small City
+100001487,Female,Single,22,High School,105230,Skilled,Small City
+100001488,Female,Not-Single,21,High School,90656,Skilled,mid-Sized City
+100001489,Female,Not-Single,20,High School,115445,Skilled,mid-Sized City
+100001490,Female,Not-Single,22,High School,59955,unemployed/unskilled,Small City
+100001491,Female,Single,27,High School,126268,Skilled,mid-Sized City
+100001492,Female,Single,24,High School,80830,unemployed/unskilled,Small City
+100001493,Female,Not-Single,23,High School,123625,Skilled,Small City
+100001494,Female,Not-Single,26,High School,102543,Skilled,mid-Sized City
+100001495,Female,Single,28,High School,101948,Skilled,Small City
+100001496,Female,Not-Single,64,Post-Graduate,142280,Skilled,Small City
+100001497,Female,Not-Single,26,High School,105434,Skilled,mid-Sized City
+100001498,Female,Not-Single,31,High School,106115,Skilled,Small City
+100001499,Female,Single,28,High School,111057,unemployed/unskilled,Small City
+100001500,Female,Not-Single,25,High School,117758,Skilled,mid-Sized City
+100001501,Female,Single,49,Graduate,118396,unemployed/unskilled,Small City
+100001502,Female,Not-Single,33,High School,136260,Skilled,mid-Sized City
+100001503,Female,Single,27,High School,97192,Skilled,Small City
+100001504,Female,Not-Single,59,Graduate,62101,unemployed/unskilled,Small City
+100001505,Female,Not-Single,28,High School,123497,Skilled,Small City
+100001506,Female,Not-Single,24,High School,120326,Skilled,mid-Sized City
+100001507,Female,Not-Single,26,High School,66645,unemployed/unskilled,Small City
+100001508,Female,Single,33,High School,83429,unemployed/unskilled,Small City
+100001509,Female,Single,37,High School,107539,Skilled,mid-Sized City
+100001510,Female,Not-Single,46,Graduate,153880,Skilled,Small City
+100001511,Female,Not-Single,62,Graduate,140178,unemployed/unskilled,mid-Sized City
+100001512,Female,Single,26,High School,100402,unemployed/unskilled,Small City
+100001513,Female,Not-Single,49,Graduate,122158,unemployed/unskilled,Small City
+100001514,Female,Not-Single,25,High School,89331,unemployed/unskilled,Small City
+100001515,Female,Not-Single,37,High School,125359,unemployed/unskilled,Small City
+100001516,Female,Single,31,High School,124110,Skilled,Small City
+100001517,Female,Single,25,High School,93526,unemployed/unskilled,Small City
+100001518,Female,Not-Single,21,High School,70170,unemployed/unskilled,Small City
+100001519,Female,Not-Single,27,High School,82357,unemployed/unskilled,Small City
+100001520,Female,Not-Single,29,High School,126745,Skilled,Small City
+100001521,Female,Not-Single,30,High School,103326,Skilled,mid-Sized City
+100001522,Female,Not-Single,26,High School,116048,Skilled,mid-Sized City
+100001523,Female,Not-Single,40,Graduate,137115,unemployed/unskilled,Small City
+100001524,Female,Not-Single,23,High School,105365,Skilled,mid-Sized City
+100001525,Female,Not-Single,31,High School,95911,Skilled,Small City
+100001526,Female,Not-Single,29,High School,88669,unemployed/unskilled,Small City
+100001527,Female,Single,22,High School,103776,unemployed/unskilled,Small City
+100001528,Female,Not-Single,26,High School,108864,Skilled,mid-Sized City
+100001529,Female,Single,39,High School,106037,Skilled,mid-Sized City
+100001530,Female,Single,35,High School,84851,unemployed/unskilled,Small City
+100001531,Female,Not-Single,26,High School,95748,Skilled,mid-Sized City
+100001532,Female,Not-Single,28,High School,133616,Skilled,mid-Sized City
+100001533,Female,Not-Single,56,Graduate,132752,Skilled,Small City
+100001534,Female,Not-Single,22,High School,95712,Skilled,mid-Sized City
+100001535,Female,Not-Single,26,High School,109063,Skilled,Small City
+100001536,Female,Single,41,High School,113521,Skilled,Small City
+100001537,Female,Not-Single,29,High School,109380,Skilled,mid-Sized City
+100001538,Female,Not-Single,42,Graduate,82558,unemployed/unskilled,Small City
+100001539,Female,Not-Single,50,Graduate,124777,Skilled,mid-Sized City
+100001540,Female,Not-Single,33,High School,133542,Skilled,Small City
+100001541,Female,Not-Single,28,High School,116492,Skilled,mid-Sized City
+100001542,Female,Not-Single,27,High School,68834,unemployed/unskilled,Small City
+100001543,Female,Not-Single,27,High School,124023,Skilled,Small City
+100001544,Female,Single,28,High School,63882,unemployed/unskilled,Small City
+100001545,Female,Not-Single,24,High School,122492,Skilled,mid-Sized City
+100001546,Female,Single,28,High School,141453,Management/officer/self-employed,mid-Sized City
+100001547,Female,Not-Single,32,High School,99327,Skilled,Small City
+100001548,Female,Single,32,High School,45590,unemployed/unskilled,Small City
+100001549,Female,Single,30,High School,71167,unemployed/unskilled,Small City
+100001550,Female,Not-Single,29,High School,111992,Skilled,Small City
+100001551,Female,Not-Single,37,High School,145140,Skilled,mid-Sized City
+100001552,Female,Not-Single,24,High School,49672,unemployed/unskilled,Small City
+100001553,Female,Not-Single,36,High School,75536,unemployed/unskilled,Small City
+100001554,Female,Not-Single,40,Graduate,86720,unemployed/unskilled,Small City
+100001555,Female,Not-Single,51,Graduate,97729,unemployed/unskilled,Small City
+100001556,Female,Not-Single,33,High School,106808,unemployed/unskilled,Small City
+100001557,Female,Single,31,High School,117971,Skilled,Small City
+100001558,Female,Not-Single,29,High School,97731,Skilled,mid-Sized City
+100001559,Female,Single,48,Graduate,109196,unemployed/unskilled,Small City
+100001560,Female,Not-Single,25,High School,94905,Skilled,Small City
+100001561,Female,Single,28,High School,57480,unemployed/unskilled,Small City
+100001562,Female,Not-Single,23,High School,109175,Skilled,mid-Sized City
+100001563,Female,Not-Single,32,High School,111174,Skilled,mid-Sized City
+100001564,Female,Not-Single,34,High School,127255,Skilled,Small City
+100001565,Female,Single,23,High School,115499,Skilled,Small City
+100001566,Female,Not-Single,25,High School,109499,Skilled,mid-Sized City
+100001567,Female,Single,25,High School,104696,Skilled,Small City
+100001568,Female,Not-Single,27,High School,104467,Skilled,Small City
+100001569,Female,Not-Single,29,High School,120157,Skilled,Small City
+100001570,Female,Not-Single,46,Graduate,81200,unemployed/unskilled,Small City
+100001571,Female,Not-Single,61,Graduate,97558,unemployed/unskilled,Small City
+100001572,Female,Not-Single,25,High School,95914,Skilled,Small City
+100001573,Female,Not-Single,67,Post-Graduate,128053,Skilled,Small City
+100001574,Female,Not-Single,49,Graduate,101734,unemployed/unskilled,Small City
+100001575,Female,Not-Single,21,High School,126009,Skilled,Small City
+100001576,Female,Single,19,High School,91232,unemployed/unskilled,Small City
+100001577,Female,Not-Single,67,Post-Graduate,128343,unemployed/unskilled,Small City
+100001578,Female,Not-Single,31,High School,110040,Skilled,mid-Sized City
+100001579,Female,Not-Single,27,High School,38247,unemployed/unskilled,Small City
+100001580,Female,Not-Single,37,High School,129027,unemployed/unskilled,Small City
+100001581,Female,Not-Single,27,High School,115026,Skilled,Small City
+100001582,Female,Single,36,High School,130323,Skilled,Small City
+100001583,Female,Not-Single,24,High School,103181,Skilled,mid-Sized City
+100001584,Female,Not-Single,31,High School,138307,Skilled,mid-Sized City
+100001585,Female,Not-Single,29,High School,122564,unemployed/unskilled,Small City
+100001586,Female,Single,28,High School,82351,unemployed/unskilled,Small City
+100001587,Female,Not-Single,34,High School,125351,Skilled,Small City
+100001588,Female,Not-Single,26,High School,82940,unemployed/unskilled,Small City
+100001589,Female,Single,21,High School,108029,Skilled,Small City
+100001590,Female,Not-Single,63,Graduate,82734,unemployed/unskilled,Small City
+100001591,Female,Single,38,Graduate,116816,unemployed/unskilled,Small City
+100001592,Female,Not-Single,20,High School,113472,unemployed/unskilled,Small City
+100001593,Female,Not-Single,44,Graduate,143343,Skilled,mid-Sized City
+100001594,Female,Not-Single,31,High School,104074,Skilled,mid-Sized City
+100001595,Female,Single,33,High School,138525,Skilled,mid-Sized City
+100001596,Female,Not-Single,49,Graduate,106960,unemployed/unskilled,Small City
+100001597,Female,Single,26,High School,108323,Skilled,Small City
+100001598,Female,Not-Single,28,High School,95784,Skilled,Small City
+100001599,Female,Not-Single,30,High School,140673,Skilled,mid-Sized City
+100001600,Female,Not-Single,36,High School,104235,Skilled,mid-Sized City
+100001601,Female,Not-Single,27,High School,54041,unemployed/unskilled,Small City
+100001602,Male,Single,23,Unknown/Other,107961,unemployed/unskilled,Small City
+100001603,Male,Single,31,Unknown/Other,113757,Skilled,Small City
+100001604,Female,Not-Single,27,High School,94884,Skilled,Small City
+100001605,Female,Not-Single,25,High School,126041,Skilled,Small City
+100001606,Female,Not-Single,23,High School,64952,unemployed/unskilled,Small City
+100001607,Male,Not-Single,27,High School,66764,unemployed/unskilled,Small City
+100001608,Female,Single,38,High School,67861,unemployed/unskilled,Small City
+100001609,Male,Single,44,High School,113516,unemployed/unskilled,Small City
+100001610,Female,Not-Single,42,High School,46109,unemployed/unskilled,Small City
+100001611,Female,Not-Single,25,High School,103651,unemployed/unskilled,Small City
+100001612,Male,Not-Single,40,High School,75043,unemployed/unskilled,Small City
+100001613,Female,Not-Single,24,High School,116473,unemployed/unskilled,Small City
+100001614,Female,Single,39,High School,96614,unemployed/unskilled,Small City
+100001615,Male,Single,24,Unknown/Other,66447,unemployed/unskilled,Small City
+100001616,Female,Single,50,High School,119068,Skilled,Small City
+100001617,Female,Not-Single,28,High School,122973,unemployed/unskilled,Small City
+100001618,Female,Not-Single,36,High School,81609,unemployed/unskilled,Small City
+100001619,Male,Single,36,High School,105519,Skilled,Small City
+100001620,Female,Not-Single,40,High School,86649,unemployed/unskilled,Small City
+100001621,Female,Single,31,Unknown/Other,76384,unemployed/unskilled,Small City
+100001622,Male,Not-Single,27,High School,67136,unemployed/unskilled,Small City
+100001623,Female,Not-Single,35,High School,93155,unemployed/unskilled,Small City
+100001624,Male,Single,51,High School,124183,unemployed/unskilled,Small City
+100001625,Female,Single,26,Unknown/Other,64860,unemployed/unskilled,Small City
+100001626,Male,Single,33,High School,87232,unemployed/unskilled,Small City
+100001627,Female,Not-Single,27,High School,92304,unemployed/unskilled,Small City
+100001628,Male,Single,38,High School,84254,unemployed/unskilled,Small City
+100001629,Female,Single,30,Unknown/Other,106696,Skilled,Small City
+100001630,Male,Single,28,Unknown/Other,113212,Skilled,Small City
+100001631,Male,Single,23,Unknown/Other,71076,unemployed/unskilled,Small City
+100001632,Female,Not-Single,23,High School,114270,unemployed/unskilled,Small City
+100001633,Female,Not-Single,26,High School,125538,Skilled,Small City
+100001634,Female,Not-Single,21,High School,92442,unemployed/unskilled,Small City
+100001635,Female,Single,36,High School,75297,unemployed/unskilled,Small City
+100001636,Female,Not-Single,24,High School,65707,unemployed/unskilled,Small City
+100001637,Male,Single,41,High School,120387,Skilled,Small City
+100001638,Male,Single,42,High School,120946,Skilled,Small City
+100001639,Male,Single,27,Unknown/Other,73265,unemployed/unskilled,Small City
+100001640,Male,Not-Single,40,High School,77481,unemployed/unskilled,Small City
+100001641,Female,Not-Single,34,High School,91282,unemployed/unskilled,Small City
+100001642,Male,Single,40,High School,104405,unemployed/unskilled,Small City
+100001643,Male,Single,33,High School,99646,Skilled,Small City
+100001644,Female,Single,49,High School,97791,unemployed/unskilled,Small City
+100001645,Male,Single,28,Unknown/Other,81878,unemployed/unskilled,Small City
+100001646,Female,Not-Single,26,High School,107908,Skilled,Small City
+100001647,Female,Single,40,High School,98608,unemployed/unskilled,Small City
+100001648,Male,Single,47,High School,95228,unemployed/unskilled,Small City
+100001649,Female,Not-Single,41,High School,128163,Skilled,Small City
+100001650,Female,Not-Single,29,High School,94325,unemployed/unskilled,Small City
+100001651,Female,Not-Single,37,High School,90815,unemployed/unskilled,Small City
+100001652,Male,Single,31,Unknown/Other,120719,Skilled,Small City
+100001653,Male,Single,35,High School,110159,Skilled,Small City
+100001654,Male,Single,35,High School,124490,Skilled,Small City
+100001655,Female,Not-Single,29,High School,75161,unemployed/unskilled,Small City
+100001656,Female,Single,37,High School,127206,Skilled,Small City
+100001657,Male,Single,37,High School,83660,unemployed/unskilled,Small City
+100001658,Female,Not-Single,26,High School,87400,unemployed/unskilled,Small City
+100001659,Female,Not-Single,28,High School,78942,unemployed/unskilled,Small City
+100001660,Female,Not-Single,23,High School,88452,unemployed/unskilled,Small City
+100001661,Male,Single,38,High School,104128,Skilled,Small City
+100001662,Female,Not-Single,30,High School,100313,Skilled,Small City
+100001663,Female,Single,45,High School,107387,Skilled,Small City
+100001664,Male,Single,24,Unknown/Other,84355,unemployed/unskilled,Small City
+100001665,Female,Single,35,High School,112723,Skilled,Small City
+100001666,Female,Not-Single,41,High School,115892,Skilled,Small City
+100001667,Male,Not-Single,30,High School,106597,Skilled,Small City
+100001668,Female,Not-Single,30,High School,121327,Skilled,Small City
+100001669,Female,Not-Single,26,High School,92559,unemployed/unskilled,Small City
+100001670,Female,Not-Single,25,High School,87537,unemployed/unskilled,Small City
+100001671,Female,Not-Single,23,High School,70569,unemployed/unskilled,Small City
+100001672,Female,Not-Single,27,High School,85294,unemployed/unskilled,Small City
+100001673,Female,Single,26,Unknown/Other,70905,unemployed/unskilled,Small City
+100001674,Male,Single,25,Unknown/Other,103716,unemployed/unskilled,Small City
+100001675,Male,Not-Single,27,High School,94947,Skilled,Small City
+100001676,Female,Single,42,High School,80116,unemployed/unskilled,Small City
+100001677,Male,Single,35,High School,86492,unemployed/unskilled,Small City
+100001678,Female,Not-Single,25,High School,88672,unemployed/unskilled,Small City
+100001679,Female,Not-Single,26,High School,82984,unemployed/unskilled,Small City
+100001680,Male,Single,38,High School,128100,Skilled,Small City
+100001681,Female,Single,28,Unknown/Other,72869,unemployed/unskilled,Small City
+100001682,Male,Not-Single,33,High School,112227,Skilled,Small City
+100001683,Female,Single,40,High School,94674,unemployed/unskilled,Small City
+100001684,Female,Not-Single,23,High School,101003,Skilled,Small City
+100001685,Female,Single,25,Unknown/Other,112924,Skilled,Small City
+100001686,Female,Single,28,Unknown/Other,108645,unemployed/unskilled,Small City
+100001687,Male,Single,41,High School,69415,unemployed/unskilled,Small City
+100001688,Female,Single,50,High School,112204,unemployed/unskilled,Small City
+100001689,Female,Not-Single,23,High School,109700,Skilled,Small City
+100001690,Female,Not-Single,26,High School,104484,Skilled,Small City
+100001691,Female,Not-Single,22,High School,61239,unemployed/unskilled,Small City
+100001692,Male,Single,37,High School,119602,unemployed/unskilled,Small City
+100001693,Female,Single,38,High School,81014,unemployed/unskilled,Small City
+100001694,Female,Not-Single,22,High School,68165,unemployed/unskilled,Small City
+100001695,Female,Single,30,Unknown/Other,88652,unemployed/unskilled,Small City
+100001696,Male,Single,38,High School,75705,unemployed/unskilled,Small City
+100001697,Female,Not-Single,36,High School,104189,Skilled,Small City
+100001698,Male,Single,41,High School,71603,unemployed/unskilled,Small City
+100001699,Female,Not-Single,29,High School,121914,Skilled,Small City
+100001700,Female,Not-Single,31,High School,106637,Skilled,Small City
+100001701,Female,Single,31,Unknown/Other,99800,Skilled,Small City
+100001702,Female,Single,21,Unknown/Other,67629,unemployed/unskilled,Small City
+100001703,Male,Single,32,Unknown/Other,120354,Skilled,Small City
+100001704,Female,Not-Single,35,High School,122110,Skilled,Small City
+100001705,Male,Single,29,Unknown/Other,89170,unemployed/unskilled,Small City
+100001706,Female,Single,34,High School,109195,Skilled,Small City
+100001707,Female,Single,38,High School,92392,unemployed/unskilled,Small City
+100001708,Female,Not-Single,33,High School,43805,unemployed/unskilled,Small City
+100001709,Female,Not-Single,28,High School,68389,unemployed/unskilled,Small City
+100001710,Female,Not-Single,28,High School,112521,Skilled,Small City
+100001711,Male,Single,21,Unknown/Other,59255,unemployed/unskilled,Small City
+100001712,Female,Not-Single,29,High School,98612,unemployed/unskilled,Small City
+100001713,Female,Not-Single,26,High School,70649,unemployed/unskilled,Small City
+100001714,Female,Single,40,High School,95228,unemployed/unskilled,Small City
+100001715,Female,Single,25,Unknown/Other,46865,unemployed/unskilled,Small City
+100001716,Male,Not-Single,20,High School,101688,Skilled,Small City
+100001717,Female,Not-Single,23,High School,62618,unemployed/unskilled,Small City
+100001718,Female,Single,27,Unknown/Other,102531,Skilled,Small City
+100001719,Female,Single,36,High School,100737,Skilled,Small City
+100001720,Female,Not-Single,25,High School,107321,Skilled,Small City
+100001721,Female,Not-Single,25,High School,112879,unemployed/unskilled,Small City
+100001722,Female,Not-Single,34,High School,125372,unemployed/unskilled,Small City
+100001723,Female,Single,24,Unknown/Other,69419,unemployed/unskilled,Small City
+100001724,Female,Single,36,High School,124759,Skilled,Small City
+100001725,Female,Single,40,High School,79076,unemployed/unskilled,Small City
+100001726,Male,Single,39,High School,84779,unemployed/unskilled,Small City
+100001727,Female,Single,42,High School,77393,unemployed/unskilled,Small City
+100001728,Male,Single,35,High School,113187,unemployed/unskilled,Small City
+100001729,Female,Not-Single,27,High School,99100,Skilled,Small City
+100001730,Male,Single,27,Unknown/Other,64954,unemployed/unskilled,Small City
+100001731,Female,Not-Single,23,High School,103244,Skilled,Small City
+100001732,Female,Not-Single,32,High School,124975,Skilled,Small City
+100001733,Male,Not-Single,28,High School,133582,Skilled,Small City
+100001734,Male,Single,22,Unknown/Other,103519,Skilled,Small City
+100001735,Male,Single,31,Unknown/Other,117813,Skilled,Small City
+100001736,Female,Not-Single,22,High School,119902,Skilled,Small City
+100001737,Male,Single,23,Unknown/Other,70783,unemployed/unskilled,Small City
+100001738,Female,Not-Single,35,High School,125470,unemployed/unskilled,Small City
+100001739,Female,Not-Single,26,High School,109782,unemployed/unskilled,Small City
+100001740,Female,Not-Single,28,High School,78322,unemployed/unskilled,Small City
+100001741,Male,Single,54,High School,125517,Skilled,Small City
+100001742,Female,Single,49,High School,102463,unemployed/unskilled,Small City
+100001743,Female,Single,38,High School,89309,unemployed/unskilled,Small City
+100001744,Female,Single,47,High School,110287,Skilled,Small City
+100001745,Female,Single,49,High School,122391,unemployed/unskilled,Small City
+100001746,Female,Not-Single,30,High School,116399,Skilled,Small City
+100001747,Female,Single,32,Unknown/Other,81907,unemployed/unskilled,Small City
+100001748,Female,Not-Single,24,High School,97909,unemployed/unskilled,Small City
+100001749,Female,Single,25,Unknown/Other,68051,unemployed/unskilled,Small City
+100001750,Male,Single,33,High School,82414,unemployed/unskilled,Small City
+100001751,Female,Not-Single,34,High School,123089,Skilled,Small City
+100001752,Female,Not-Single,24,High School,66537,unemployed/unskilled,Small City
+100001753,Female,Single,36,High School,127926,unemployed/unskilled,Small City
+100001754,Female,Single,41,High School,78963,unemployed/unskilled,Small City
+100001755,Male,Not-Single,33,High School,108694,Skilled,Small City
+100001756,Female,Not-Single,26,High School,100892,Skilled,Small City
+100001757,Female,Single,36,High School,119560,Skilled,Small City
+100001758,Female,Single,35,High School,116176,unemployed/unskilled,Small City
+100001759,Male,Single,29,Unknown/Other,111854,Skilled,Small City
+100001760,Female,Not-Single,26,High School,69831,unemployed/unskilled,Small City
+100001761,Male,Single,31,Unknown/Other,69375,unemployed/unskilled,Small City
+100001762,Male,Not-Single,26,High School,71310,unemployed/unskilled,Small City
+100001763,Male,Single,47,High School,73913,unemployed/unskilled,Small City
+100001764,Male,Not-Single,20,High School,95492,Skilled,Small City
+100001765,Male,Single,45,High School,109329,unemployed/unskilled,Small City
+100001766,Male,Single,36,High School,116027,Skilled,Small City
+100001767,Male,Not-Single,31,High School,81987,unemployed/unskilled,Small City
+100001768,Female,Single,41,High School,83481,unemployed/unskilled,Small City
+100001769,Female,Single,31,Unknown/Other,72361,unemployed/unskilled,Small City
+100001770,Female,Not-Single,27,High School,106625,unemployed/unskilled,Small City
+100001771,Female,Not-Single,32,High School,123707,Skilled,Small City
+100001772,Female,Single,43,High School,79353,unemployed/unskilled,Small City
+100001773,Female,Single,32,Unknown/Other,68347,unemployed/unskilled,Small City
+100001774,Female,Not-Single,29,High School,115832,Skilled,Small City
+100001775,Male,Single,37,High School,89946,unemployed/unskilled,Small City
+100001776,Female,Single,35,High School,86319,unemployed/unskilled,Small City
+100001777,Female,Not-Single,23,High School,70963,unemployed/unskilled,Small City
+100001778,Male,Single,40,High School,106120,Skilled,Small City
+100001779,Female,Not-Single,26,High School,97856,Skilled,Small City
+100001780,Male,Single,28,Unknown/Other,61824,unemployed/unskilled,Small City
+100001781,Female,Not-Single,40,High School,103907,Skilled,Small City
+100001782,Female,Not-Single,26,High School,99953,unemployed/unskilled,Small City
+100001783,Female,Not-Single,23,High School,113413,Skilled,Small City
+100001784,Male,Single,26,Unknown/Other,107091,unemployed/unskilled,Small City
+100001785,Male,Single,26,Unknown/Other,124783,Skilled,Small City
+100001786,Female,Single,49,High School,92281,unemployed/unskilled,Small City
+100001787,Female,Not-Single,26,High School,96219,Skilled,Small City
+100001788,Female,Single,35,High School,86221,unemployed/unskilled,Small City
+100001789,Female,Not-Single,24,High School,80962,unemployed/unskilled,Small City
+100001790,Female,Single,46,High School,78754,unemployed/unskilled,Small City
+100001791,Male,Single,26,Unknown/Other,60026,unemployed/unskilled,Small City
+100001792,Male,Single,47,High School,88157,unemployed/unskilled,Small City
+100001793,Male,Single,27,Unknown/Other,59881,unemployed/unskilled,Small City
+100001794,Male,Not-Single,41,High School,112818,Skilled,Small City
+100001795,Female,Not-Single,29,High School,102250,Skilled,Small City
+100001796,Female,Not-Single,28,High School,38980,unemployed/unskilled,Small City
+100001797,Female,Not-Single,33,High School,81807,unemployed/unskilled,Small City
+100001798,Female,Single,50,High School,93148,unemployed/unskilled,Small City
+100001799,Female,Not-Single,32,High School,108032,Skilled,Small City
+100001800,Male,Not-Single,31,High School,89335,unemployed/unskilled,Small City
+100001801,Male,Single,52,High School,95639,unemployed/unskilled,Small City
+100001802,Male,Single,53,High School,124902,Skilled,Small City
+100001803,Female,Not-Single,34,High School,87801,unemployed/unskilled,Small City
+100001804,Female,Not-Single,22,High School,92538,Skilled,Small City
+100001805,Male,Not-Single,33,High School,83687,unemployed/unskilled,Small City
+100001806,Male,Single,32,Unknown/Other,128310,Skilled,Small City
+100001807,Female,Single,45,High School,104754,unemployed/unskilled,Small City
+100001808,Male,Not-Single,25,High School,68222,unemployed/unskilled,Small City
+100001809,Female,Not-Single,41,High School,97006,unemployed/unskilled,Small City
+100001810,Female,Single,36,High School,107372,unemployed/unskilled,Small City
+100001811,Female,Not-Single,27,High School,110511,Skilled,Small City
+100001812,Male,Single,40,High School,72193,unemployed/unskilled,Small City
+100001813,Female,Single,37,High School,95972,unemployed/unskilled,Small City
+100001814,Male,Single,35,High School,105556,unemployed/unskilled,Small City
+100001815,Male,Single,34,High School,88701,unemployed/unskilled,Small City
+100001816,Female,Single,28,Unknown/Other,117710,Skilled,Small City
+100001817,Female,Single,44,High School,76057,unemployed/unskilled,Small City
+100001818,Male,Not-Single,27,High School,100392,Skilled,Small City
+100001819,Female,Single,50,High School,113308,Skilled,Small City
+100001820,Female,Not-Single,18,High School,100924,Skilled,Small City
+100001821,Female,Single,25,Unknown/Other,72188,unemployed/unskilled,Small City
+100001822,Female,Not-Single,40,High School,70431,unemployed/unskilled,Small City
+100001823,Male,Not-Single,28,High School,110103,Skilled,Small City
+100001824,Female,Not-Single,23,High School,60825,unemployed/unskilled,Small City
+100001825,Female,Not-Single,35,High School,75100,unemployed/unskilled,Small City
+100001826,Female,Not-Single,28,High School,129327,Skilled,Small City
+100001827,Female,Single,23,Unknown/Other,95541,Skilled,Small City
+100001828,Male,Not-Single,34,High School,112777,Skilled,Small City
+100001829,Female,Not-Single,29,High School,51496,unemployed/unskilled,Small City
+100001830,Female,Single,35,High School,102781,Skilled,Small City
+100001831,Female,Not-Single,32,High School,87494,unemployed/unskilled,Small City
+100001832,Female,Single,46,High School,72728,unemployed/unskilled,Small City
+100001833,Female,Not-Single,27,High School,114775,Skilled,Small City
+100001834,Female,Not-Single,25,High School,124359,Skilled,Small City
+100001835,Female,Not-Single,27,High School,101620,unemployed/unskilled,Small City
+100001836,Female,Not-Single,24,High School,87964,unemployed/unskilled,Small City
+100001837,Female,Single,33,Unknown/Other,69523,unemployed/unskilled,Small City
+100001838,Female,Not-Single,24,High School,109486,Skilled,Small City
+100001839,Female,Single,28,Unknown/Other,77206,unemployed/unskilled,Small City
+100001840,Female,Single,35,High School,53608,unemployed/unskilled,Small City
+100001841,Female,Not-Single,30,High School,118677,Skilled,Small City
+100001842,Male,Single,43,High School,116512,Skilled,Small City
+100001843,Male,Not-Single,21,High School,114756,unemployed/unskilled,Small City
+100001844,Female,Not-Single,24,High School,65852,unemployed/unskilled,Small City
+100001845,Male,Single,34,High School,75626,unemployed/unskilled,Small City
+100001846,Female,Not-Single,26,High School,127455,Skilled,Small City
+100001847,Male,Single,37,High School,107073,Skilled,Small City
+100001848,Female,Not-Single,32,High School,82196,unemployed/unskilled,Small City
+100001849,Female,Not-Single,33,High School,106741,unemployed/unskilled,Small City
+100001850,Male,Not-Single,28,High School,94518,Skilled,Small City
+100001851,Female,Not-Single,30,High School,114430,Skilled,Small City
+100001852,Female,Not-Single,26,High School,57165,unemployed/unskilled,Small City
+100001853,Female,Single,25,Unknown/Other,109610,unemployed/unskilled,Small City
+100001854,Male,Single,33,Unknown/Other,113619,Skilled,Small City
+100001855,Female,Not-Single,30,High School,93854,Skilled,Small City
+100001856,Female,Not-Single,26,High School,129022,Skilled,Small City
+100001857,Male,Not-Single,23,High School,66804,unemployed/unskilled,Small City
+100001858,Male,Not-Single,25,High School,62689,unemployed/unskilled,Small City
+100001859,Female,Single,40,High School,67619,unemployed/unskilled,Small City
+100001860,Male,Single,46,High School,113495,unemployed/unskilled,Small City
+100001861,Female,Not-Single,43,High School,48632,unemployed/unskilled,Small City
+100001862,Female,Not-Single,22,High School,107394,unemployed/unskilled,Small City
+100001863,Male,Not-Single,39,High School,72385,unemployed/unskilled,Small City
+100001864,Female,Not-Single,27,High School,115934,unemployed/unskilled,Small City
+100001865,Male,Single,40,High School,93183,unemployed/unskilled,Small City
+100001866,Male,Single,24,Unknown/Other,63506,unemployed/unskilled,Small City
+100001867,Female,Single,52,High School,113619,Skilled,Small City
+100001868,Female,Not-Single,30,High School,121399,unemployed/unskilled,Small City
+100001869,Female,Not-Single,34,High School,78281,unemployed/unskilled,Small City
+100001870,Female,Single,38,High School,103926,Skilled,Small City
+100001871,Male,Not-Single,39,High School,89097,unemployed/unskilled,Small City
+100001872,Female,Single,29,Unknown/Other,80852,unemployed/unskilled,Small City
+100001873,Male,Not-Single,25,High School,65207,unemployed/unskilled,Small City
+100001874,Female,Not-Single,35,High School,93495,unemployed/unskilled,Small City
+100001875,Male,Single,53,High School,121970,unemployed/unskilled,Small City
+100001876,Male,Single,26,Unknown/Other,62027,unemployed/unskilled,Small City
+100001877,Male,Single,33,High School,88602,unemployed/unskilled,Small City
+100001878,Male,Not-Single,29,High School,89914,unemployed/unskilled,Small City
+100001879,Male,Single,39,High School,83342,unemployed/unskilled,Small City
+100001880,Male,Single,29,Unknown/Other,103439,Skilled,Small City
+100001881,Male,Single,26,Unknown/Other,115451,Skilled,Small City
+100001882,Male,Single,24,Unknown/Other,68250,unemployed/unskilled,Small City
+100001883,Female,Not-Single,21,High School,113630,unemployed/unskilled,Small City
+100001884,Female,Not-Single,26,High School,125880,Skilled,Small City
+100001885,Female,Not-Single,20,High School,91177,unemployed/unskilled,Small City
+100001886,Female,Single,35,High School,73266,unemployed/unskilled,Small City
+100001887,Female,Not-Single,24,High School,69021,unemployed/unskilled,Small City
+100001888,Female,Single,40,High School,122593,Skilled,Small City
+100001889,Female,Single,44,High School,122180,Skilled,Small City
+100001890,Male,Single,29,Unknown/Other,75160,unemployed/unskilled,Small City
+100001891,Female,Not-Single,39,High School,81973,unemployed/unskilled,Small City
+100001892,Female,Not-Single,35,High School,92194,unemployed/unskilled,Small City
+100001893,Male,Single,42,High School,107380,unemployed/unskilled,Small City
+100001894,Female,Single,32,High School,98023,Skilled,Small City
+100001895,Male,Single,48,High School,94868,unemployed/unskilled,Small City
+100001896,Male,Single,26,Unknown/Other,83442,unemployed/unskilled,Small City
+100001897,Female,Not-Single,26,High School,109887,Skilled,Small City
+100001898,Male,Single,42,High School,98876,unemployed/unskilled,Small City
+100001899,Male,Single,48,High School,94962,unemployed/unskilled,Small City
+100001900,Female,Not-Single,42,High School,130740,Skilled,Small City
+100001901,Female,Not-Single,27,High School,94095,unemployed/unskilled,Small City
+100001902,Female,Not-Single,37,High School,95071,unemployed/unskilled,Small City
+100001903,Male,Single,33,Unknown/Other,117308,Skilled,Small City
+100001904,Male,Single,33,High School,112093,Skilled,Small City
+100001905,Female,Single,37,High School,123893,Skilled,Small City
+100001906,Female,Not-Single,31,High School,80189,unemployed/unskilled,Small City
+100001907,Male,Single,39,High School,124089,Skilled,Small City
+100001908,Female,Single,40,High School,82673,unemployed/unskilled,Small City
+100001909,Female,Not-Single,28,High School,88858,unemployed/unskilled,Small City
+100001910,Female,Not-Single,26,High School,80540,unemployed/unskilled,Small City
+100001911,Female,Not-Single,24,High School,84228,unemployed/unskilled,Small City
+100001912,Male,Single,40,High School,103963,Skilled,Small City
+100001913,Female,Not-Single,29,High School,102397,Skilled,Small City
+100001914,Male,Single,43,High School,111563,Skilled,Small City
+100001915,Male,Single,23,Unknown/Other,88260,unemployed/unskilled,Small City
+100001916,Female,Single,34,High School,114767,Skilled,Small City
+100001917,Female,Not-Single,42,High School,113275,Skilled,Small City
+100001918,Female,Not-Single,33,High School,104755,Skilled,Small City
+100001919,Female,Not-Single,32,High School,120525,Skilled,Small City
+100001920,Female,Not-Single,26,High School,96082,unemployed/unskilled,Small City
+100001921,Female,Not-Single,23,High School,87227,unemployed/unskilled,Small City
+100001922,Female,Not-Single,26,High School,69333,unemployed/unskilled,Small City
+100001923,Female,Not-Single,27,High School,87777,unemployed/unskilled,Small City
+100001924,Male,Single,24,Unknown/Other,70978,unemployed/unskilled,Small City
+100001925,Male,Single,27,Unknown/Other,104196,unemployed/unskilled,Small City
+100001926,Female,Not-Single,26,High School,97551,Skilled,Small City
+100001927,Female,Single,42,High School,78979,unemployed/unskilled,Small City
+100001928,Female,Single,37,High School,82500,unemployed/unskilled,Small City
+100001929,Female,Not-Single,26,High School,86306,unemployed/unskilled,Small City
+100001930,Female,Not-Single,24,High School,78762,unemployed/unskilled,Small City
+100001931,Female,Single,39,High School,125543,Skilled,Small City
+100001932,Male,Single,26,Unknown/Other,70336,unemployed/unskilled,Small City
+100001933,Male,Not-Single,35,High School,112975,Skilled,Small City
+100001934,Male,Single,38,High School,96681,unemployed/unskilled,Small City
+100001935,Female,Not-Single,24,High School,98922,Skilled,Small City
+100001936,Female,Single,26,Unknown/Other,109250,Skilled,Small City
+100001937,Male,Single,25,Unknown/Other,108960,unemployed/unskilled,Small City
+100001938,Male,Single,40,High School,71302,unemployed/unskilled,Small City
+100001939,Female,Single,48,High School,107757,unemployed/unskilled,Small City
+100001940,Female,Not-Single,22,High School,111600,Skilled,Small City
+100001941,Female,Not-Single,25,High School,102974,Skilled,Small City
+100001942,Male,Not-Single,24,High School,63442,unemployed/unskilled,Small City
+100001943,Male,Single,39,High School,118913,unemployed/unskilled,Small City
+100001944,Male,Single,39,High School,80987,unemployed/unskilled,Small City
+100001945,Female,Not-Single,21,High School,68790,unemployed/unskilled,Small City
+100001946,Female,Single,27,Unknown/Other,86462,unemployed/unskilled,Small City
+100001947,Male,Single,40,High School,76881,unemployed/unskilled,Small City
+100001948,Female,Not-Single,37,High School,107409,Skilled,Small City
+100001949,Female,Single,42,High School,69114,unemployed/unskilled,Small City
+100001950,Female,Not-Single,31,High School,119167,Skilled,Small City
+100001951,Female,Not-Single,31,High School,102018,Skilled,Small City
+100001952,Male,Single,30,Unknown/Other,97680,Skilled,Small City
+100001953,Female,Single,23,Unknown/Other,65062,unemployed/unskilled,Small City
+100001954,Male,Single,33,Unknown/Other,118144,Skilled,Small City
+100001955,Female,Not-Single,37,High School,124548,Skilled,Small City
+100001956,Female,Single,29,Unknown/Other,85637,unemployed/unskilled,Small City
+100001957,Female,Single,31,High School,113108,Skilled,Small City
+100001958,Male,Single,39,High School,93554,unemployed/unskilled,Small City
+100001959,Female,Not-Single,33,High School,42516,unemployed/unskilled,Small City
+100001960,Male,Not-Single,26,High School,72429,unemployed/unskilled,Small City
+100001961,Female,Not-Single,27,High School,110154,Skilled,Small City
+100001962,Female,Single,20,Unknown/Other,60965,unemployed/unskilled,Small City
+100001963,Female,Not-Single,27,High School,100618,unemployed/unskilled,Small City
+100001964,Female,Not-Single,26,High School,71021,unemployed/unskilled,Small City
+100001965,Male,Single,40,High School,94189,unemployed/unskilled,Small City
+100001966,Male,Single,24,Unknown/Other,44742,unemployed/unskilled,Small City
+100001967,Female,Not-Single,22,High School,103201,Skilled,Small City
+100001968,Female,Not-Single,24,High School,62335,unemployed/unskilled,Small City
+100001969,Female,Single,27,Unknown/Other,103787,Skilled,Small City
+100001970,Male,Single,35,High School,99401,Skilled,Small City
+100001971,Male,Not-Single,27,High School,105197,Skilled,Small City
+100001972,Female,Not-Single,25,High School,115566,unemployed/unskilled,Small City
+100001973,Female,Not-Single,34,High School,125843,unemployed/unskilled,Small City
+100001974,Female,Single,24,Unknown/Other,67936,unemployed/unskilled,Small City
+100001975,Female,Single,34,High School,120863,Skilled,Small City
+100001976,Male,Single,42,High School,77317,unemployed/unskilled,Small City
+100001977,Female,Single,38,High School,84653,unemployed/unskilled,Small City
+100001978,Male,Single,42,High School,81606,unemployed/unskilled,Small City
+100001979,Female,Single,35,High School,113380,unemployed/unskilled,Small City
+100001980,Female,Not-Single,27,High School,100644,Skilled,Small City
+100001981,Male,Single,25,Unknown/Other,64037,unemployed/unskilled,Small City
+100001982,Female,Not-Single,23,High School,101350,Skilled,Small City
+100001983,Female,Not-Single,34,High School,126334,Skilled,Small City
+100001984,Female,Not-Single,28,High School,130877,Skilled,Small City
+100001985,Male,Single,21,Unknown/Other,103470,Skilled,Small City
+100001986,Female,Single,32,Unknown/Other,114588,Skilled,Small City
+100001987,Female,Not-Single,21,High School,120682,Skilled,Small City
+100001988,Male,Single,25,Unknown/Other,66628,unemployed/unskilled,Small City
+100001989,Female,Not-Single,35,High School,124447,unemployed/unskilled,Small City
+100001990,Female,Not-Single,25,High School,106567,unemployed/unskilled,Small City
+100001991,Female,Not-Single,31,High School,78758,unemployed/unskilled,Small City
+100001992,Male,Single,54,High School,128537,Skilled,Small City
+100001993,Female,Single,51,High School,101074,unemployed/unskilled,Small City
+100001994,Female,Single,38,High School,87670,unemployed/unskilled,Small City
+100001995,Male,Single,45,High School,113414,Skilled,Small City
+100001996,Female,Single,47,High School,123525,unemployed/unskilled,Small City
+100001997,Female,Not-Single,27,High School,117744,Skilled,Small City
+100001998,Male,Single,31,Unknown/Other,86400,unemployed/unskilled,Small City
+100001999,Female,Not-Single,24,High School,97968,unemployed/unskilled,Small City
+100002000,Male,Single,25,Unknown/Other,68416,unemployed/unskilled,Small City
